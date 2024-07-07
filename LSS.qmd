@@ -1,0 +1,24 @@
+---
+title: "Lunch Seminar Series"
+---
+
+The Lunch Seminar Series (LSS) is a monthly event hosted by the Department of Mathematical Sciences at Aalborg University. The series is aimed to provide a platform for researchers, students, and industry professionals to present and discuss their work in an informal setting.
+
+The seminars are held on the last Friday of each month from 12:00 to 13:00. The event is open to everyone, you only need to bring your lunch and enjoy the presentations.
+
+The LSS is organized by [J. Eduardo Vera-Valdés](https://everval.github.io/). If you are interested in presenting your work, please use [this email](mailto:eduardo@math.aau.dk).
+
+# Upcoming Seminars
+
+
+|      Date      | Speaker          | Title                            |
+| :------------: | :--------------- | :------------------------------- | 
+| 2024-08-30    | NN | TBA |
+
+# Past Seminars
+
+|      Date      | Speaker          | Title                            |
+| :------------: | :--------------- | :------------------------------- | 
+| 2024-04-26    | [Orimar Sauri](https://sites.google.com/view/osauri/) | The Euler Scheme for Stochastic Delay Differential Equations with Gaussian additive noise: Convergence and Asymptotic Error Distribution |
+| 2024-05-24 | [Charisios Grivas](https://vbn.aau.dk/da/persons/cgrivas) | Automated Bandwidth Selection for Inference in Linear Models with Time-Varying Coefficients    | 
+

@@ -3,19 +3,38 @@ project:
 
 website:
   title: "AAU-Math"
+  description: "Offsite page for the Department of Mathematical Sciences at Aalborg University"
+  open-graph: true
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: LSS.qmd
+        text: Seminar Series
       - href: https://climateaau.github.io/
         text: Climate@AAU
       - href: XV.qmd
         text: XV Math-Econ
       - about.qmd
+    tools:
+      - icon: link-45deg
+        href: https://www.math.aau.dk/
+      - icon: github
+        href: https://github.com/Math-at-Aalborg-University
+      #- icon: briefcase-fill
+      #  href: https://www.scopus.com/authid/detail.uri?authorId=57219050544
+      #- icon: mortarboard-fill
+      #  href: https://scholar.google.dk/citations?user=w_zK95oAAAAJ
+      - icon: linkedin
+        href: https://www.linkedin.com/company/institut-for-matematiske-fag-aalborg-universitet/
+      #- icon: mastodon
+      #  href: https://mathstodon.xyz/@eduardoveravaldes
+      #- icon: threads
+      #  href: https://www.threads.net/@everval21
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 
