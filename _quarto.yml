@@ -2,11 +2,15 @@ project:
   type: website
 
 website:
-  title: "Math-at-aalborg-university.github.io"
+  title: "AAU-Math"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: https://climateaau.github.io/
+        text: Climate@AAU
+      - href: XV.qmd
+        text: XV Math-Econ
       - about.qmd
 
 format:

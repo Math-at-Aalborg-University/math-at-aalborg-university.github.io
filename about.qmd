@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+The site is maintained by [J. Eduardo Vera-Valdés](https://everval.github.io/). Report any issues [here](mailto:eduardo@math.aau.dk). 

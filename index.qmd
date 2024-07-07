@@ -1,7 +1,14 @@
 ---
-title: "Math-at-aalborg-university.github.io"
+title: "Department of Mathematical Sciences, Aalborg University"
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is the *offsite* page for the Department of Mathematical Sciences. You can find the official website [here](https://www.math.aau.dk/). This website is used for fast updates and hosting of events and research projects.
+
+# Earth Day and Climate Econometrics
+
+The Department of Mathematical Sciences at Aalborg University is committed to the study of Climate Change and its impacts on society. It hosts the [Climate AAU Hub](https://climateaau.github.io), containing [Climate Econometrics Research Projects](https://climateaau.github.io/climateeconometrics.html) and the yearly [Earth Day Events](https://climateaau.github.io/earthday2024.html).
+
+# XV Anniversary of the Mathematics-Ecnomics Program
+
+The Mathematics-Economics Program at Aalborg University celebrates its 15th anniversary. The Department is hosting an event to bring together students, alumni, faculty, and industry leaders to connect, reflect, and look ahead. You can find more information [here](https://math-at-aalborg-university.github.io/math-econ-15.html).
