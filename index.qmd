@@ -3,7 +3,11 @@ title: "Department of Mathematical Sciences, Aalborg University"
 ---
 
 
-This is the *offsite* page for the Department of Mathematical Sciences. You can find the official website [here](https://www.math.aau.dk/). This website is used for fast updates and hosting of events and research projects.
+This is the *offstage* page for the Department of Mathematical Sciences. You can find the official website [here](https://www.math.aau.dk/). This website is used for fast updates and hosting of events and research projects. It does not replace the official website, which maintains the official information.
+
+# Seminar Series
+
+The Department of Mathematical Sciences at Aalborg University hosts a monthly seminar series. You can find more information [here](LSS.qmd).
 
 # Earth Day and Climate Econometrics
 
@@ -11,4 +15,4 @@ The Department of Mathematical Sciences at Aalborg University is committed to th
 
 # XV Anniversary of the Mathematics-Ecnomics Program
 
-The Mathematics-Economics Program at Aalborg University celebrates its 15th anniversary. The Department is hosting an event to bring together students, alumni, faculty, and industry leaders to connect, reflect, and look ahead. You can find more information [here](https://math-at-aalborg-university.github.io/math-econ-15.html).
+The Mathematics-Economics Program at Aalborg University celebrates its 15th anniversary. The Department is hosting an event to bring together students, alumni, faculty, and industry leaders to connect, reflect, and look ahead. You can find more information [here](XV.qmd).

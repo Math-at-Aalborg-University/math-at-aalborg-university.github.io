@@ -6,28 +6,43 @@ At Aalborg University, we are excited to celebrate the 15th anniversary of the M
 
 This milestone event will bring together students, alumni, faculty, and industry leaders to connect, reflect, and look ahead.
 
-- 📅 Date: September 13, 2024
-- 🕒 Time: 13:30 - 17:30 (Dinner from 18:00)
-- 📍 Location: AAU Innovate, Thomas Manns Vej 25, 9220 Aalborg East
-
-Why Attend?
+### Why Attend?
 
 - 👉 Panel Discussions: Gain insights from distinguished alumni.
 - 👉 Program Evolution: Explore the history and future of our program.
 - 👉 AI and the Future Job Market: Engage in forward-thinking dialogues.
 
-The celebration will conclude with a gala dinner, offering an evening of good food and great conversation.
+### Date and Location
 
-✍ Register today to save your spot: https://forms.office.com/e/mUwStPb8wY
+- 📅 Date: September 13, 2024
+- 🕒 Time: 13:30 - 17:30 (Dinner from 18:00)
+- 📍 Location: AAU Innovate, Thomas Manns Vej 25, 9220 Aalborg East
+
+### Registration
+
+✍ Register today to save your spot: [https://forms.office.com/e/mUwStPb8wY](https://forms.office.com/e/mUwStPb8wY)
 
 🕒 Deadline for registration is August 30.
 
+### Gala Dinner
+
+The celebration will conclude with a gala dinner, offering an evening of good food and great conversation.
+
 Seating for the dinner is limited, so make sure to register early. The event is free for everybody to attend. The price to join the dinner will be shared shortly.
+
+### Contact
 
 For any questions regarding the event, please contact [J. Eduardo Vera Valdés](mailto: eduardo@math.aau.dk).
 
 We look forward to celebrating with you!
 
-## Sponsors 
 
-- [Centrica Energy](https://centricaenergy.com/)
+### Sponsors 
+
+We would like to thank our sponsors for their support. 
+
+::: {layout-ncol=3}
+
+![Centrica Energy](/figs/CentricaEnergy.png){fig-alt="Centrica Energy Logo." width=100%}
+
+:::

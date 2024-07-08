@@ -2,4 +2,6 @@
 title: "About"
 ---
 
+This is the *offstage* page for the Department of Mathematical Sciences. You can find the official website [here](https://www.math.aau.dk/). This website is used for fast updates and hosting of events and research projects. It does not replace the official website, which maintains the official information.
+
 The site is maintained by [J. Eduardo Vera-Valdés](https://everval.github.io/). Report any issues [here](mailto:eduardo@math.aau.dk). 
