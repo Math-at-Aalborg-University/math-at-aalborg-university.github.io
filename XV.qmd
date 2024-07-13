@@ -1,5 +1,5 @@
 ---
-title: "XV Anniversary of the Mathematics-Ecnomics Program"
+title: "XV Anniversary of the Mathematics-Economics Program"
 ---
 
 ![](/figs/XV-option1.jpeg){fig-alt="XV celebration image showing a big blackboard with plots and equations. Participants gathered at tables around the room." width=70% fig-align="center"}

@@ -1,0 +1,30 @@
+---
+title: "Long Memory Symposium"
+subtitle: "Aalborg University and Aarhus University"
+---
+
+In collaboration with [Morten Ørregaard Nielsen](https://sites.google.com/view/mortennielsen/) and [Mikkel Bennedsen](https://sites.google.com/site/mbennedsen/home) from [Aarhus University](https://bss.au.dk/en/), we are excited to announce the revival of the Long Memory Symposium. This event will bring together researchers from across the world to discuss the latest advances in long memory processes and their applications.
+
+## Date and Location
+
+- 📅 Date: November 28 and 29, 2024
+
+- 📍 Location: Aarhus University, Aarhus, Denmark
+
+## Call for Papers
+
+We invite submissions of papers on topics related to long memory processes, including but not limited to:
+
+- 📈 Time series analysis
+- 📊 Financial econometrics
+- 📉 Volatility modelling
+- 📚 Machine learning
+- 📑 Statistical inference
+
+## PhD Course
+
+In addition to the symposium, we will offer a PhD course on long memory processes as part of the DGPE. The course will be held at [Aalborg University](index.qmd) on November 26 and 27, 2024, right before the start of the Symposium.
+
+More details about the course and registration will be available soon.
+
+We look forward to welcoming you to Denmark in November!

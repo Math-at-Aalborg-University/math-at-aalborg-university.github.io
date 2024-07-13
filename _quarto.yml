@@ -8,15 +8,17 @@ website:
   navbar:
     background: "#211a52"
     left:
-      - href: index.qmd
-        text: Home
+#      - href: index.qmd
+#        text: Home
       - href: LSS.qmd
         text: Seminar Series
       - href: https://climateaau.github.io/
         text: Climate@AAU
       - href: XV.qmd
         text: XV Math-Econ
-      - about.qmd
+      - href: LMS.qmd
+        text: Long Memory Symposium
+#      - about.qmd
     tools:
       - icon: link-45deg
         href: https://www.math.aau.dk/
