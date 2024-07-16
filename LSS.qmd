@@ -13,9 +13,11 @@ The LSS is organized by [J. Eduardo Vera-Valdés](https://everval.github.io/). I
 
 |      Date      | Speaker          | Title                            |
 | :------------: | :--------------- | :------------------------------- | 
-| 2024-08-30    | NN | TBA |
+| 2024-08-30    | [Julia Jansson](https://juliamariajansson.wordpress.com/), [Chalmers University of Technology](https://www.chalmers.se/en/)  | Comparison of Point Process Learning and its special case Takacs-Fiksel estimation |
+
 
 # Past Seminars
+
 
 |      Date      | Speaker          | Title                            |
 | :------------: | :--------------- | :------------------------------- | 
