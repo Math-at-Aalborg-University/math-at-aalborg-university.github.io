@@ -13,14 +13,18 @@ The LSS is organized by [J. Eduardo Vera-Valdés](https://everval.github.io/). I
 
 |      Date      | Speaker          | Title                            |
 | :------------: | :--------------- | :------------------------------- | 
-| 2024-08-30    | [Julia Jansson](https://juliamariajansson.wordpress.com/), [Chalmers University of Technology](https://www.chalmers.se/en/)  | Comparison of Point Process Learning and its special case Takacs-Fiksel estimation |
+| 2024-08-30    | [Julia Jansson](https://juliamariajansson.wordpress.com/), [Chalmers University of Technology](https://www.chalmers.se/en/)  | [Comparison of Point Process Learning and its special case Takacs-Fiksel estimation](https://arxiv.org/abs/2405.19523) |
+| 2024-09-27    | NN  | TBA |
+| 2024-10-25    | NN  | TBA |
+| 2024-11-22    | NN  | TBA |
+| 2024-12-13    | NN  | TBA |
 
 
 # Past Seminars
 
 
 |      Date      | Speaker          | Title                            |
-| :------------: | :--------------- | :------------------------------- | 
-| 2024-04-26    | [Orimar Sauri](https://sites.google.com/view/osauri/) | The Euler Scheme for Stochastic Delay Differential Equations with Gaussian additive noise: Convergence and Asymptotic Error Distribution |
-| 2024-05-24 | [Charisios Grivas](https://vbn.aau.dk/da/persons/cgrivas) | Automated Bandwidth Selection for Inference in Linear Models with Time-Varying Coefficients    | 
+| :------------: | :--------------- | :------------------------------- |
+| 2024-05-24 | [Charisios Grivas](https://vbn.aau.dk/da/persons/cgrivas) | Automated Bandwidth Selection for Inference in Linear Models with Time-Varying Coefficients    |  
+| 2024-04-26 | [Orimar Sauri](https://sites.google.com/view/osauri/) | The Euler Scheme for Stochastic Delay Differential Equations with Gaussian additive noise: Convergence and Asymptotic Error Distribution |
 
