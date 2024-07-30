@@ -2,11 +2,11 @@
 title: "Lunch Seminar Series"
 ---
 
-The Lunch Seminar Series (LSS) is a monthly event hosted by the Department of Mathematical Sciences at Aalborg University. The series is aimed to provide a platform for researchers, students, and industry professionals to present and discuss their work in an informal setting.
+The Lunch Seminar Series (LSS) is a monthly event hosted by the Department of Mathematical Sciences at Aalborg University. The series is aimed to provide a platform to present and discuss research in a more casual setting. 
 
-The seminars are held on the last Friday of each month from 12:00 to 13:00. The event is open to everyone, you only need to bring your lunch and enjoy the presentations.
+The seminars are held on the last Friday of each month from 12:00 to 13:00 at the latest but usually end earlier. The event is open to everyone, you only need to bring your lunch and enjoy the presentations.
 
-The LSS is organized by [J. Eduardo Vera-Valdés](https://everval.github.io/). If you are interested in presenting your work, please use [this email](mailto:eduardo@math.aau.dk).
+The LSS is organized by [J. Eduardo Vera-Valdés](https://everval.github.io/). If you are interested in presenting your work, please use [this email](mailto:eduardo@math.aau.dk). Currently, we are looking for speakers for the upcoming seminars up to December 2024.
 
 # Upcoming Seminars
 
