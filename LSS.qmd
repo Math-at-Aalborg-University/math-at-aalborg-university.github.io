@@ -15,7 +15,7 @@ The LSS is organized by [J. Eduardo Vera-Valdés](https://everval.github.io/). I
 | :------------: | :--------------- | :------------------------------- | 
 | 2024-08-30    | [Julia Jansson](https://juliamariajansson.wordpress.com/), [Chalmers University of Technology](https://www.chalmers.se/en/)  | [Comparison of Point Process Learning and its special case Takacs-Fiksel estimation](https://arxiv.org/abs/2405.19523) |
 | 2024-09-27    | NN  | TBA |
-| 2024-10-25    | NN  | TBA |
+| 2024-10-25    | [Anne Marie Svane](https://vbn.aau.dk/da/persons/142961)  | TBA |
 | 2024-11-22    | NN  | TBA |
 | 2024-12-13    | NN  | TBA |
 
