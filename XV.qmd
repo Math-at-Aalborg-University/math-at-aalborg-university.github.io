@@ -4,6 +4,12 @@ title: "XV Anniversary of the Mathematics-Economics Program"
 
 ![](/figs/XV-option1.jpeg){fig-alt="XV celebration image showing a big blackboard with plots and equations. Participants gathered at tables around the room." width=70% fig-align="center"}
 
+::: {.callout-tip title="Program" appareance="minimal"}
+
+[The schedule for the event is available here](XV-program.qmd).
+
+:::
+
 At Aalborg University, we are excited to celebrate the 15th anniversary of the Mathematics-Economics program 🎉! 
 
 This milestone event will bring together students, alumni, faculty, and industry leaders to connect, reflect, and look ahead.
@@ -19,6 +25,8 @@ This milestone event will bring together students, alumni, faculty, and industry
 - 📅 Date: September 13, 2024
 - 🕒 Time: 13:30 - 17:30 (Dinner from 18:00)
 - 📍 Location: AAU Innovate, Thomas Manns Vej 25, 9220 Aalborg East
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2172.150748396996!2d9.972707676763175!3d57.01472537357734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464eccdbf9dfd6ed%3A0x727243796a71dd57!2sAAU%20Innovation!5e0!3m2!1sen!2suk!4v1723821337098!5m2!1sen!2suk" width="500" height="375" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Registration
 
@@ -39,12 +47,16 @@ For any questions regarding the event, please contact [J. Eduardo Vera Valdés](
 We look forward to celebrating with you!
 
 
-### Sponsors 
+### Industry partners
 
-We would like to thank our sponsors for their support. 
+We would like to thank the generous support of our industry partners:
 
 ::: {layout-ncol=3}
 
-![Centrica Energy](/figs/CentricaEnergy.png){fig-alt="Centrica Energy Logo." width=100%}
+![[Centrica Energy](https://www.centrica.com/)](/figs/CentricaEnergy.png){fig-alt="Centrica Energy Logo." width=100%}
+
+![[Spar Nord](https://www.sparnord.com/)](/figs/Spar_Nord.png){fig-alt="Spar Nord Logo." width=100%}
+
+![[InCommodities](https://incommodities.com/)](/figs/InCommodities.png){fig-alt="InCommodities Logo." width=70%}
 
 :::

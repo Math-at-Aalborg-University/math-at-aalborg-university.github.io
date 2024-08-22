@@ -1,0 +1,64 @@
+---
+title: "XV Anniversary of the Mathematics-Economics Program"
+---
+
+![](/figs/XV-option1.jpeg){fig-alt="XV celebration image showing a big blackboard with plots and equations. Participants gathered at tables around the room." width=70% fig-align="center"}
+
+# Schedule
+
+#### 13:15-13:30 Welcome and Registration 
+
+#### 13:30-14:15 History of the Program 
+
+Presentation by Esben Høg
+
+#### 14:15-14:30 Break
+
+#### 14:30-16:00 Panel Discussion: Alumni Stories
+
+🎤 Panelists:
+
+  - Anca Pircalabu (Centrica)
+  - Anne-Katrine K. Jøns (Novo Nordisk)
+  - Jonas B. Jensen (SparNord)
+  - Morten Andersen (InCommodities)
+  - Stine N. Jensen (Frederikshavn Gymnasium)
+
+#### 16:00-16:15 Coffee and Cake
+
+#### 16:15-17:30 Future of the Education
+
+Speakers:
+
+  - Thomas Hvolby (Centrica)
+
+  - Alex Vasegaard (AAU)
+
+  - TBC
+
+#### 17:30-18:00 Wine and Networking
+
+#### 18:00 Dinner at the Faculty Club
+
+---
+
+### Contact
+
+For any questions regarding the event, please contact [J. Eduardo Vera Valdés](mailto: eduardo@math.aau.dk).
+
+We look forward to celebrating with you!
+
+
+### Industry partners
+
+We would like to thank the generous support of our industry partners:
+
+::: {layout-ncol=3}
+
+![[Centrica Energy](https://www.centrica.com/)](/figs/CentricaEnergy.png){fig-alt="Centrica Energy Logo." width=100%}
+
+![[Spar Nord](https://www.sparnord.com/)](/figs/Spar_Nord.png){fig-alt="Spar Nord Logo." width=100%}
+
+![[InCommodities](https://incommodities.com/)](/figs/InCommodities.png){fig-alt="InCommodities Logo." width=70%}
+
+:::
