@@ -18,7 +18,7 @@ Presentation by Esben Høg
 
 🎤 Panelists:
 
-  - Anca Pircalabu (Centrica)
+  - Anca Pircalabu (Centrica Energy)
   - Anne-Katrine K. Jøns (Novo Nordisk)
   - Jonas B. Jensen (SparNord)
   - Morten Andersen (InCommodities)
@@ -31,9 +31,7 @@ Presentation by Esben Høg
 Speakers:
 
   - Thomas Hvolby (Centrica)
-
   - Alex Vasegaard (AAU)
-
   - TBC
 
 #### 17:30-18:00 Wine and Networking

@@ -4,9 +4,9 @@ title: "Lunch Seminar Series"
 
 The Lunch Seminar Series (LSS) is a monthly event hosted by the Department of Mathematical Sciences at Aalborg University. The series is aimed to provide a platform to present and discuss research in a more casual setting. 
 
-The seminars are held on a Friday from 12:00 to 13:00 at the latest but usually end earlier. The event is open to everyone, you only need to bring your lunch and enjoy the presentations.
+The seminars are held on a Friday from 12:15 to 13:00 at the latest but usually end earlier. For the fall 2024 semester, they will be held in **Fib16 1.201**. The event is open to everyone, you only need to bring your lunch and enjoy the presentations.
 
-The LSS is organized by [J. Eduardo Vera-Valdés](https://everval.github.io/). If you are interested in presenting your work, please use [this email](mailto:eduardo@math.aau.dk). Currently, we are looking for speakers for the upcoming seminars up to December 2024.
+The LSS is organized by [Eduardo Vera-Valdés](https://everval.github.io/). If you are interested in presenting your work, please use [this email](mailto:eduardo@math.aau.dk). Currently, we are looking for speakers for the upcoming seminar in December 2024.
 
 # Upcoming Seminars
 
@@ -14,10 +14,10 @@ The LSS is organized by [J. Eduardo Vera-Valdés](https://everval.github.io/). I
 |      Date      | Speaker          | Title                            |
 | :------------: | :--------------- | :------------------------------- | 
 | 2024-08-30    | [Julia Jansson](https://juliamariajansson.wordpress.com/), [Chalmers University of Technology](https://www.chalmers.se/en/)  | [Comparison of Point Process Learning and its special case Takacs-Fiksel estimation](https://arxiv.org/abs/2405.19523) |
-| 2024-09-27    | NN  | TBA |
+| 2024-10-04    | [J. Eduardo Vera-Valdés](https://everval.github.io)  | The Story of 1.5°C: Obtaining the Probability of Breaching the Goals of the Paris Agreement |
 | 2024-10-25    | [Anne Marie Svane](https://vbn.aau.dk/da/persons/142961)  | TBA |
-| 2024-11-22    | NN  | TBA |
-| 2024-12-13    | NN  | TBA |
+| 2024-11-22    | [Oliver Matte](https://vbn.aau.dk/en/persons/oliver)  | TBA |
+| 2024-12-13    | [Rasmus Waagepetersen](https://people.math.aau.dk/~rw/)  | TBA |
 
 
 # Past Seminars
