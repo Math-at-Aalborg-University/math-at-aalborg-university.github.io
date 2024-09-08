@@ -32,7 +32,6 @@ Speakers:
 
   - Thomas Hvolby (Centrica)
   - Alex Vasegaard (AAU)
-  - TBC
 
 #### 17:30-18:00 Wine and Networking
 
