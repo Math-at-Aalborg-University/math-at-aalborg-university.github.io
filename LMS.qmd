@@ -16,7 +16,7 @@ Invitations are being sent to a number of leading researchers in the field. We w
 
 ## PhD Course
 
-In addition to the symposium, we will offer a PhD course on long memory processes as part of the [DGPE](https://econ.au.dk/dgpe). The course will be held at [Aalborg University](index.qmd) on November 26 and 27, 2024, right before the start of the Symposium.
+In addition to the symposium, we will offer a [PhD course on long memory processes](LM-PhD.qmd) as part of the [DGPE](https://econ.au.dk/dgpe). The course will be held at [Aalborg University](index.qmd) on November 26 and 27, 2024, right before the start of the Symposium.
 
 All participants in the course are invited to attend the Symposium free of charge.
 

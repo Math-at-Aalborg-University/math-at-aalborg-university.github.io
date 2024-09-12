@@ -16,6 +16,10 @@ The Department of Mathematical Sciences at Aalborg University is committed to th
 
 The Mathematics-Economics Program at Aalborg University celebrates its 15th anniversary. The Department is hosting an event to bring together students, alumni, faculty, and industry leaders to connect, reflect, and look ahead. You can find more information [here](XV.qmd).
 
+# [PhD Course on Long Memory Processes](LM-PhD.qmd)
+
+The Department of Mathematical Sciences at Aalborg University is hosting a PhD course on long memory processes. The course will be held on November 26th-27th, 2024. You can find more information [here](LM-PhD.qmd).
+
 # [Long Memory Symposium](LMS.qmd)
 
 The Long Memory Symposium is a collaboration between Aalborg University and Aarhus University. The event will bring together researchers from across the world to discuss the latest advances in long memory processes and their applications. You can find more information [here](LMS.qmd).

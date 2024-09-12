@@ -16,6 +16,8 @@ website:
         text: Climate@AAU
       - href: XV.qmd
         text: XV Math-Econ
+      - href: LM-PHD.qmd
+        text: PhD Course in Long Memory
       - href: LMS.qmd
         text: Long Memory Symposium
 #      - about.qmd
