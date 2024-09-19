@@ -4,6 +4,12 @@ title: "XV Anniversary of the Mathematics-Economics Program"
 
 ![](/figs/XV-option1.jpeg){fig-alt="XV celebration image showing a big blackboard with plots and equations. Participants gathered at tables around the room." width=70% fig-align="center"}
 
+::: {.callout-note appareance="minimal"}
+
+Thank you for joining us in celebrating the 15th anniversary of the Mathematics-Economics program at Aalborg University.
+
+:::
+
 ::: {.callout-tip title="Program" appareance="minimal"}
 
 [The schedule for the event is available here](XV-program.qmd).
@@ -30,9 +36,9 @@ This milestone event will bring together students, alumni, faculty, and industry
 
 ### Registration
 
-✍ Register today to save your spot: [https://forms.office.com/e/mUwStPb8wY](https://forms.office.com/e/mUwStPb8wY)
+✍ ~~Register today to save your spot.~~
 
-🕒 Deadline for registration is ~~August 30~~. **Deadline extended for students and graduates to September 5**. 
+🕒 ~~Deadline for registration is August 30. **Deadline extended for students and graduates to September 5**.~~
 
 ### Gala Dinner
 
