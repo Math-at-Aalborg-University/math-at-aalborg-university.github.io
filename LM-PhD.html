@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -157,7 +177,8 @@ window.Quarto = {
   <li><a href="#course-description" id="toc-course-description" class="nav-link active" data-scroll-target="#course-description">Course Description</a>
   <ul class="collapse">
   <li><a href="#motivation" id="toc-motivation" class="nav-link" data-scroll-target="#motivation">Motivation</a></li>
-  <li><a href="#outline" id="toc-outline" class="nav-link" data-scroll-target="#outline">Outline</a></li>
+  <li><a href="#background-and-reading" id="toc-background-and-reading" class="nav-link" data-scroll-target="#background-and-reading">Background and Reading</a></li>
+  <li><a href="#contents" id="toc-contents" class="nav-link" data-scroll-target="#contents">Contents</a></li>
   <li><a href="#instructor" id="toc-instructor" class="nav-link" data-scroll-target="#instructor">Instructor</a></li>
   <li><a href="#reading-material" id="toc-reading-material" class="nav-link" data-scroll-target="#reading-material">Reading Material</a></li>
   <li><a href="#evaluation" id="toc-evaluation" class="nav-link" data-scroll-target="#evaluation">Evaluation</a></li>
@@ -169,8 +190,8 @@ window.Quarto = {
   <li><a href="#venue" id="toc-venue" class="nav-link" data-scroll-target="#venue">Venue</a></li>
   <li><a href="#fee" id="toc-fee" class="nav-link" data-scroll-target="#fee">Fee</a></li>
   <li><a href="#ects-credits" id="toc-ects-credits" class="nav-link" data-scroll-target="#ects-credits">ECTS Credits</a></li>
-  <li><a href="#connection-to-awe-vi-long-memory-symposium-in-aarhus-university" id="toc-connection-to-awe-vi-long-memory-symposium-in-aarhus-university" class="nav-link" data-scroll-target="#connection-to-awe-vi-long-memory-symposium-in-aarhus-university">Connection to AWE VI Long Memory Symposium in Aarhus University</a></li>
   <li><a href="#registration" id="toc-registration" class="nav-link" data-scroll-target="#registration">Registration</a></li>
+  <li><a href="#connection-to-awe-vi-long-memory-symposium-in-aarhus-university" id="toc-connection-to-awe-vi-long-memory-symposium-in-aarhus-university" class="nav-link" data-scroll-target="#connection-to-awe-vi-long-memory-symposium-in-aarhus-university">Connection to AWE VI Long Memory Symposium in Aarhus University</a></li>
   <li><a href="#questions" id="toc-questions" class="nav-link" data-scroll-target="#questions">Questions</a></li>
   </ul></li>
   </ul>
@@ -216,29 +237,68 @@ Figure&nbsp;1: Temperature for Northern Hemisphere and its autocorrelation funct
 </figcaption>
 </figure>
 </div>
-<p>The course will provide an introduction to long memory in time series, including estimation, testing, and applications. The course will provide participants with the necessary knowledge to understand and analyse long memory in time series.</p>
+<p>This course introduces to models for time series with such strong persistence and tools for the statistical analysis thereof. The leading model is fractional integration of order <span class="math inline">\(d\)</span>, <span class="math inline">\(I(d)\)</span>. We discuss the properties of sample moments and conditions for limiting normality. Next, the estimation of the memory parameter <span class="math inline">\(d\)</span> is addressed.</p>
+<p>Then we turn to efficient tests for values of <span class="math inline">\(d\)</span>. Further, we will study regression analysis under fractional cointegration amongst several time series. Moreover, a competing model to fractional integration called harmonic weighting is introduced. If time allows, we may briefly touch upon further topics such as long memory in volatility, cyclical long memory or forecasting.</p>
 </section>
-<section id="outline" class="level3">
-<h3 class="anchored" data-anchor-id="outline">Outline</h3>
-<p>This course will provide an introduction to long memory in time series. The course will cover the following topics:</p>
-<ul>
-<li>Introduction to long memory and motivation</li>
-<li>Estimation of long memory models</li>
-<li>Forecasting with long memory models</li>
-<li>Applications of long memory models</li>
-</ul>
+<section id="background-and-reading" class="level3">
+<h3 class="anchored" data-anchor-id="background-and-reading">Background and Reading</h3>
+<ol type="1">
+<li><p>Our starting point is the short-memory <span class="math inline">\(I(0)\)</span> process covered in classical books by , or . Relevant background material will be covered in quick review chapters in the beginning of this course.</p></li>
+<li><p>From <span class="math inline">\(I(0)\)</span> we enter the range of stationary long memory, <span class="math inline">\(0 &lt; d &lt; 1/2\)</span>, continue with (different degrees of) nonstationarity and move towards unit roots, <span class="math inline">\(I(1)\)</span>.</p></li>
+<li><p>Long memory has received a lot of attention in time series analysis over the last decades. For instance, the updated edition by <span class="citation" data-cites="box2015time">Box et al. (<a href="#ref-box2015time" role="doc-biblioref">2015</a>)</span> contains a section on long memory and fractional integration, and so does <span class="citation" data-cites="palma2016time">Palma (<a href="#ref-palma2016time" role="doc-biblioref">2016</a>)</span>; earlier textbooks like <span class="citation" data-cites="brockwell1991time">Brockwell and Davis (<a href="#ref-brockwell1991time" role="doc-biblioref">1991</a>, Sect. 13.2)</span>, and <span class="citation" data-cites="fuller1996introduction">Fuller (<a href="#ref-fuller1996introduction" role="doc-biblioref">1996</a>, Sect. 2.11)</span> include short sections on this topic, too.</p></li>
+<li><p>Much of the material treated in this course is covered in the books by <span class="citation" data-cites="beran2013long">Beran et al. (<a href="#ref-beran2013long" role="doc-biblioref">2013</a>)</span>, <span class="citation" data-cites="giraitis2012large">Giraitis, Koul, and Surgailis (<a href="#ref-giraitis2012large" role="doc-biblioref">2012</a>)</span>, or <span class="citation" data-cites="hassler2019time">Hassler (<a href="#ref-hassler2019time" role="doc-biblioref">2019</a>)</span>. We will walk through an extensive set of slides with many details.</p></li>
+<li><p>The structure of this course, most of the material and the notation from the slides are taken from <span class="citation" data-cites="hassler2019time">Hassler (<a href="#ref-hassler2019time" role="doc-biblioref">2019</a>)</span>.</p></li>
+</ol>
+</section>
+<section id="contents" class="level3">
+<h3 class="anchored" data-anchor-id="contents">Contents</h3>
+<ol type="1">
+<li>Empirical Examples</li>
+<li>Review: Stationary Processes</li>
+<li>Review: Moving Averages</li>
+<li>Frequency Domain</li>
+<li>Differencing and Integration</li>
+<li>Fractionally Integrated Processes, <span class="math inline">\(I(d)\)</span></li>
+<li>Sample Mean</li>
+<li>Estimation of <span class="math inline">\(d\)</span> and Inference</li>
+<li>Harmonically Weighted Processes</li>
+<li>Testing</li>
+<li>Fractional Cointegration</li>
+<li>Further Topics</li>
+</ol>
 </section>
 <section id="instructor" class="level3">
 <h3 class="anchored" data-anchor-id="instructor">Instructor</h3>
-<p>Prof.&nbsp;Dr.&nbsp;Uwe Hassler from Goethe University Frankfurt.</p>
+<p><a href="https://www.old.wiwi.uni-frankfurt.de/abteilungen/eq/professoren/hassler/team/prof-dr-uwe-hassler.html">Prof.&nbsp;Dr.&nbsp;Uwe Hassler</a> from Goethe University Frankfurt.</p>
 </section>
 <section id="reading-material" class="level3">
 <h3 class="anchored" data-anchor-id="reading-material">Reading Material</h3>
-<ul>
-<li><p>Hassler, U. (2018). Time series analysis with long memory in view (1st edition). John Wiley &amp; Sons.</p></li>
-<li><p>Beran, J., Feng, Y., Ghosh, S., &amp; Kulik, R. (2013). Long-Memory Processes: Probabilistic Properties and Statistical Methods. Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-35512-7</p></li>
-<li><p>Baillie, R. T. (1996). Long memory processes and fractional integration in econometrics. Journal of Econometrics, 73(1), 5–59. https://doi.org/10.1016/0304-4076(95)01732-1</p></li>
-</ul>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-beran2013long" class="csl-entry" role="listitem">
+Beran, J., Y. Feng, S. Ghosh, and R. Kulik. 2013. <em>Long-Memory Processes: Probabilistic Properties and Statistical Methods</em>. Springer.
+</div>
+<div id="ref-box2015time" class="csl-entry" role="listitem">
+Box, G. E. P., G. M. Jenkins, G. C. Reinsel, and G. M. Ljung. 2015. <em>Time Series Analysis: Forecasting and Control</em>. 5th ed. Wiley.
+</div>
+<div id="ref-brockwell1991time" class="csl-entry" role="listitem">
+Brockwell, P. J., and R. A. Davis. 1991. <em>Time Series: Theory and Methods</em>. 2nd ed. Springer.
+</div>
+<div id="ref-fuller1996introduction" class="csl-entry" role="listitem">
+Fuller, W. A. 1996. <em>Introduction to Statistical Time Series</em>. 2nd ed. Wiley.
+</div>
+<div id="ref-giraitis2012large" class="csl-entry" role="listitem">
+Giraitis, L., H. L. Koul, and D. Surgailis. 2012. <em>Large Sample Inference for Long Memory Processes</em>. Imperial College Press.
+</div>
+<div id="ref-hamilton1994time" class="csl-entry" role="listitem">
+Hamilton, J. D. 1994. <em>Time Series Analysis</em>. Princeton University Press.
+</div>
+<div id="ref-hassler2019time" class="csl-entry" role="listitem">
+Hassler, U. 2019. <em>Time Series Analysis with Long Memory in View</em>. Wiley.
+</div>
+<div id="ref-palma2016time" class="csl-entry" role="listitem">
+Palma, W. 2016. <em>Time Series Analysis</em>. Wiley.
+</div>
+</div>
 </section>
 <section id="evaluation" class="level3">
 <h3 class="anchored" data-anchor-id="evaluation">Evaluation</h3>
@@ -287,15 +347,15 @@ Map
 <h3 class="anchored" data-anchor-id="ects-credits">ECTS Credits</h3>
 <p>Upon completing all course activities, participants will be awarded 3 ECTS credits and a course certificate.</p>
 </section>
+<section id="registration" class="level3">
+<h3 class="anchored" data-anchor-id="registration">Registration</h3>
+<p>Register by filling out <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Sbrb9QbOb0msPgzxQ2HZNBkC2W4DGcxNs7tfQ8Mk3LJUQlpSMEtJRTVPSVpLRURIRExLTDhLSkFNRi4u">this form</a>.</p>
+</section>
 <section id="connection-to-awe-vi-long-memory-symposium-in-aarhus-university" class="level3">
 <h3 class="anchored" data-anchor-id="connection-to-awe-vi-long-memory-symposium-in-aarhus-university">Connection to AWE VI Long Memory Symposium in Aarhus University</h3>
 <p>Participants in the course are encouraged to attend the <a href="https://econ.au.dk/about-us/news-and-events/single-event-item/artikel/aarhus-workshop-in-econometrics-vi-awe-vi">AWE VI Long Memory Symposium</a> in Aarhus University on November 28th-29th, 2024.</p>
 <p>The symposium will feature presentations on long memory in time series and related topics. Participation in the symposium is free of charge, but registration is required.</p>
 <p>More information about the symposium will be available soon.</p>
-</section>
-<section id="registration" class="level3">
-<h3 class="anchored" data-anchor-id="registration">Registration</h3>
-<p>Register by filling out <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Sbrb9QbOb0msPgzxQ2HZNBkC2W4DGcxNs7tfQ8Mk3LJUQlpSMEtJRTVPSVpLRURIRExLTDhLSkFNRi4u">this form</a>.</p>
 </section>
 <section id="questions" class="level3">
 <h3 class="anchored" data-anchor-id="questions">Questions</h3>
