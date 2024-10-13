@@ -11,6 +11,8 @@ format-links:
   - format: typst
     text: PDF
     icon: file-pdf
+bibliography: references/refs-phd-lm.bib
+bibliographystyle: apa
 ---
 
 ## Course Description
@@ -27,33 +29,57 @@ Long memory has been detected in several time series, including inflation, volat
 
 ![Temperature for Northern Hemisphere and its autocorrelation function.](figs/plot_temperature_hz.png){#fig-acf-temp}
 
-The course will provide an introduction to long memory in time series, including estimation, testing, and applications. The course will provide participants with the necessary knowledge to understand and analyse long memory in time series. 
+This course introduces to models for time series with such strong persistence and tools for the statistical analysis thereof. The leading  model is fractional integration of order $d$, $I(d)$. We discuss the properties of sample moments and conditions for limiting normality. Next, the estimation of the memory parameter $d$ is addressed.
+
+Then we turn to efficient tests for values of $d$. Further, we will study regression analysis under fractional cointegration amongst several time series. Moreover, a competing model to fractional integration called harmonic weighting is introduced.  If time allows, we may briefly touch upon further topics such as long memory in volatility, cyclical long memory or forecasting.
 
 
-### Outline
+### Background and Reading
 
-This course will provide an introduction to long memory in time series. The course will cover the following topics:
+1. Our starting point is the  short-memory $I(0)$ process covered in classical books by \citet{BrockwellDavis91}, \citet{Fuller96} or \citet{Hamilton94}. Relevant background material will be covered in quick review chapters in the beginning of this course.
+	
+2. From $I(0)$ we enter the range of stationary long memory, $0 < d < 1/2$, continue with (different degrees of) nonstationarity and move towards unit roots, $I(1)$.
+	
+3. Long memory has received a lot of attention in time series analysis over the last decades. For instance, the updated edition by @box2015time contains a section on long memory and fractional integration, and so does @palma2016time; earlier textbooks like @brockwell1991time [Sect. 13.2], and @fuller1996introduction [Sect. 2.11] include short sections on this topic, too.
+	
+4. Much of the material treated in this course is covered in the books by @beran2013long, @giraitis2012large, or @hassler2019time. We will walk through an extensive set of slides with many details.
+	
+5. The structure of this course, most of the material and the notation from the slides are taken from @hassler2019time.
 
-- Introduction to long memory and motivation
-- Estimation of long memory models
-- Forecasting with long memory models
-- Applications of long memory models
+### Contents
+
+1. Empirical Examples
+2. Review: Stationary Processes
+3. Review: Moving Averages
+4. Frequency Domain
+5. Differencing and Integration
+6. Fractionally Integrated Processes, $I(d)$
+7. Sample Mean
+8. Estimation of $d$ and Inference
+9. Harmonically Weighted Processes
+10. Testing
+11. Fractional Cointegration
+12. Further Topics
 
 ### Instructor
 
-Prof. Dr. Uwe Hassler from Goethe University Frankfurt.
+[Prof. Dr. Uwe Hassler](https://www.old.wiwi.uni-frankfurt.de/abteilungen/eq/professoren/hassler/team/prof-dr-uwe-hassler.html) from Goethe University Frankfurt.
+
+::: {.content-visible when-format="html"}
 
 ### Reading Material
 
-- Hassler, U. (2018). Time series analysis with long memory in view (1st edition). John Wiley & Sons.
+---
+nocite: |
+  @*
+---
 
-- Beran, J., Feng, Y., Ghosh, S., & Kulik, R. (2013). Long-Memory Processes: Probabilistic Properties and Statistical Methods. Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-35512-7
+:::{#refs}
+::: 
 
-- Baillie, R. T. (1996). Long memory processes and fractional integration in econometrics. Journal of Econometrics, 73(1), 5–59. https://doi.org/10.1016/0304-4076(95)01732-1
-
+:::
 
 ### Evaluation
-
 
 The participants are evaluated by solving suggested exercises which provide and prove an understanding of the presented theory. To pass the course, at least 70% of the exercises should be satisfactory evaluated.
 
@@ -107,6 +133,11 @@ Costs associated with transportation and accommodation should be covered by the 
 
 Upon completing all course activities, participants will be awarded 3 ECTS credits and a course certificate.
 
+### Registration
+
+Register by filling out [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=Sbrb9QbOb0msPgzxQ2HZNBkC2W4DGcxNs7tfQ8Mk3LJUQlpSMEtJRTVPSVpLRURIRExLTDhLSkFNRi4u).
+
+
 ### Connection to AWE VI Long Memory Symposium in Aarhus University
 
 Participants in the course are encouraged to attend the [AWE VI Long Memory Symposium](https://econ.au.dk/about-us/news-and-events/single-event-item/artikel/aarhus-workshop-in-econometrics-vi-awe-vi) in Aarhus University on November 28th-29th, 2024. 
@@ -115,13 +146,20 @@ The symposium will feature presentations on long memory in time series and relat
 
 More information about the symposium will be available soon.
 
-### Registration
-
-Register by filling out [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=Sbrb9QbOb0msPgzxQ2HZNBkC2W4DGcxNs7tfQ8Mk3LJUQlpSMEtJRTVPSVpLRURIRExLTDhLSkFNRi4u).
-
 ### Questions
 
 For any questions regarding the course, please contact [J. Eduardo Vera-Valdés](https://everval.github.io), [eduardo@math.aau.dk](mailto: eduardo@math.aau.dk).
 
-
 We look forward to welcoming you to Denmark in November!
+
+::: {.content-visible when-format="typst"}
+
+---
+nocite: |
+  @*
+---
+
+:::{#refs}
+::: 
+
+:::
