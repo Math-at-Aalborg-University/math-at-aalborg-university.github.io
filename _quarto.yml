@@ -18,8 +18,8 @@ website:
         text: XV Math-Econ
       - href: LM-PhD.qmd
         text: PhD Course in Long Memory
-#      - href: LMS.qmd
-#        text: Long Memory Symposium
+      - href: LMS.qmd
+        text: Long Memory Symposium
 #      - about.qmd
     tools:
       - icon: link-45deg

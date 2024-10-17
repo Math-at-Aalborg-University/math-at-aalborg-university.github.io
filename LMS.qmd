@@ -2,7 +2,7 @@
 title: "AWE VI Long Memory Symposium"
 ---
 
-In collaboration with [Morten Ørregaard Nielsen](https://sites.google.com/view/mortennielsen/) and [Mikkel Bennedsen](https://sites.google.com/site/mbennedsen/home) from [Aarhus University](https://bss.au.dk/en/), we are excited to announce the revival of the Long Memory Symposium. This event will bring together researchers from across the world to discuss the latest advances in long memory processes and their applications.
+In collaboration with [Morten Ørregaard Nielsen](https://sites.google.com/view/mortennielsen/) and [Mikkel Bennedsen](https://sites.google.com/site/mbennedsen/home) from [Aarhus University](https://bss.au.dk/en/), we are excited to announce the revival of the [Long Memory Symposium](https://econ.au.dk/about-us/news-and-events/single-event-item/artikel/aarhus-workshop-in-econometrics-vi-awe-vi). This event will bring together researchers from across the world to discuss the latest advances in long memory processes and their applications.
 
 ## Date and Location
 
@@ -12,14 +12,18 @@ In collaboration with [Morten Ørregaard Nielsen](https://sites.google.com/view/
 
 ## Invited Speakers
 
-Invitations are being sent to a number of leading researchers in the field. We will update the list of confirmed speakers as soon as possible.
+Invitations are being sent to a number of leading researchers in the field. 
 
 ## PhD Course
 
-In addition to the symposium, we will offer a [PhD course on long memory processes](LM-PhD.qmd) as part of the [DGPE](https://econ.au.dk/dgpe). The course will be held at [Aalborg University](index.qmd) on November 26 and 27, 2024, right before the start of the Symposium.
+In addition to the symposium, we will offer a [PhD course on long memory processes](LM-PhD.qmd) as part of the [DGPE](https://econ.au.dk/dgpe). The course will be held at Aalborg University on November 26 and 27, 2024, right before the start of the Symposium.
 
 All participants in the course are invited to attend the Symposium free of charge.
 
-More details about the course and registration will be available soon.
+More details about the course and registration can be found [here](LM-PhD.qmd).
+
+## Sponsors
+
+This workshop is sponsored by the [Danish National Research Foundation (DNRF) Chair](https://dg.dk/en/centers/dnrf-chair-professor-morten-oe-nielsen/) and the [Centre for Research in Energy (CoRE)](https://econ.au.dk/core-center-for-research-in-energy-economics-and-markets) at Aarhus University. 
 
 We look forward to welcoming you to Denmark in November!

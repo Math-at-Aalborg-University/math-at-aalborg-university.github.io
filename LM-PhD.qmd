@@ -79,9 +79,6 @@ nocite: |
 
 :::
 
-### Evaluation
-
-The participants are evaluated by solving suggested exercises which provide and prove an understanding of the presented theory. To pass the course, at least 70% of the exercises should be satisfactory evaluated.
 
 ### Prerequisites
 
