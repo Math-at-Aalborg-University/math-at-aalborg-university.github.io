@@ -79,16 +79,41 @@ nocite: |
 
 :::
 
+### Schedule
+
+The course will be held on November 26th-27th, 2024. The schedule is as follows:
+
+#### Day 1
+
+- **Registration with Coffee**: 10:00-10:30 at the Department of Mathematical Sciences, Aalborg University.
+
+- **Morning**: Lectures from 10:30-12:00.
+
+- **Lunch**: 12:00-13:00 at Innovate (across the street from the Department of Mathematical Sciences).
+
+- **Afternoon**: Lectures from 13:00-14:30 and from 15:00-16:30. Coffee break will be held at 14:30.
+
+- **Dinner**: 18:00 at [Wildebeest](http://wildebeest.dk/), Østerbro 12, 9000 Aalborg.
+
+#### Day 2
+
+- **Coffee**: 10:00-10:30 at the Department of Mathematical Sciences, Aalborg University.
+
+- **Morning**: Lectures from 10:30-12:00.
+
+- **Lunch**: 12:00-13:00 at Innovate (across the street from the Department of Mathematical Sciences).
+
+- **Afternoon**: Lectures from 13:00-14:30 and from 15:00-16:30. Coffee break will be held at 14:30.
+
+- **Course ends**: 16:30.
+
 
 ### Prerequisites
 
 Basic knowledge of time series and statistics.
 
+
 ## Logistics
-
-### Dates
-
-The course will be held on November 26th-27th, 2024.
 
 ### Venue
 
@@ -120,7 +145,7 @@ The Department of Mathematical Sciences is located at Thomas Manns Vej 23, 9220 
 
 ### Fee
 
-The course is free of charge for the students from AAU, AU, KU, CBS and SDU. 
+The course is free of charge for the students from AAU, AU, KU, CBS and SDU. Questions about cost for students from other universities should be directed to [J. Eduardo Vera-Valdés](https://everval.github.io).
 
 Lunch, coffee breaks, and course dinner are included, provided by the Danish Graduate Programme in Economics (DGPE).
 
@@ -132,7 +157,9 @@ Upon completing all course activities, participants will be awarded 3 ECTS credi
 
 ### Registration
 
-Register by filling out [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=Sbrb9QbOb0msPgzxQ2HZNBkC2W4DGcxNs7tfQ8Mk3LJUQlpSMEtJRTVPSVpLRURIRExLTDhLSkFNRi4u).
+Register by filling out [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=Sbrb9QbOb0msPgzxQ2HZNBkC2W4DGcxNs7tfQ8Mk3LJUQlpSMEtJRTVPSVpLRURIRExLTDhLSkFNRi4u). 
+
+*Deadline for registration is November 21st, 2024.*
 
 
 ### Connection to AWE VI Long Memory Symposium in Aarhus University
