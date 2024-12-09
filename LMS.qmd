@@ -2,6 +2,12 @@
 title: "AWE VI Long Memory Symposium"
 ---
 
+::: {.callout-note appareance="minimal"}
+
+Thank you for joining us to the AWE VI Long Memory Symposium. We are looking forward to welcoming you to Denmark again in the near future.
+
+:::
+
 In collaboration with [Morten Ørregaard Nielsen](https://sites.google.com/view/mortennielsen/) and [Mikkel Bennedsen](https://sites.google.com/site/mbennedsen/home) from [Aarhus University](https://bss.au.dk/en/), we are excited to announce the revival of the [Long Memory Symposium](https://econ.au.dk/about-us/news-and-events/single-event-item/artikel/aarhus-workshop-in-econometrics-vi-awe-vi). This event will bring together researchers from across the world to discuss the latest advances in long memory processes and their applications.
 
 ## Date and Location

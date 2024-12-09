@@ -15,6 +15,12 @@ bibliography: references/refs-phd-lm.bib
 bibliographystyle: apa
 ---
 
+::: {.callout-note appareance="minimal"}
+
+Thank you for joining us to the Long Memory in Time Series PhD Course. Keep an eye on this page for updates and information about future courses.
+
+:::
+
 ## Course Description
 
 ### Motivation
