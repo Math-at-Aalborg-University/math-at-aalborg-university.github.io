@@ -14,12 +14,14 @@ website:
         text: Seminar Series
       - href: https://climateaau.github.io/
         text: Climate@AAU
-      - href: XV.qmd
-        text: XV Math-Econ
-      - href: LM-PhD.qmd
-        text: PhD Course in Long Memory
-      - href: LMS.qmd
-        text: Long Memory Symposium
+      - text: Previous Events
+        menu:
+        - href: XV.qmd
+          text: XV Math-Econ
+        - href: LM-PhD.qmd
+          text: PhD Course in Long Memory
+        - href: LMS.qmd
+          text: Long Memory Symposium
 #      - about.qmd
     tools:
       - icon: link-45deg

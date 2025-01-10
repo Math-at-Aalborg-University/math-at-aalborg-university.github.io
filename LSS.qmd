@@ -13,12 +13,11 @@ The LSS is organized by [Eduardo Vera-Valdés](https://everval.github.io/). If y
 
 |      Date      | Speaker          | Title                            |
 | :------------: | :--------------- | :------------------------------- | 
-| 2024-01-31    | TBA  | TBA |
 | 2025-02-28    | [Torben Tvedebrink](https://www.linkedin.com/in/torbentvedebrink/)  | TBA |
 | 2025-03-28    | [Mikkel Meyer Andersen](https://mikl.dk/)  | TBA |
-| 2025-04-25    | Mikkel Runason Simonsen | TBA |
+| 2025-04-25    | [Mikkel Runason Simonsen](https://vbn.aau.dk/en/persons/mikkelrs) | TBA |
 | 2025-05-30    | TBA  | TBA |
-| 2025-06-27    | TBA  | TBA |
+| 2025-06-27    | [Kasper Sørensen](https://vbn.aau.dk/en/persons/kasper/publications/)  | TBA |
 
 # Past Seminars
 
@@ -26,7 +25,7 @@ The LSS is organized by [Eduardo Vera-Valdés](https://everval.github.io/). If y
 |      Date      | Speaker          | Title                            |
 | :------------: | :--------------- | :------------------------------- |
 | 2024-12-13    | [Oliver Matte](https://vbn.aau.dk/en/persons/oliver)  | A polaron in a weak magnetic field |
-| 2024-11-22    | [Rasmus Waagepetersen](https://people.math.aau.dk/~rw/)  | TBA |
+| 2024-11-22    | [Rasmus Waagepetersen](https://people.math.aau.dk/~rw/)  | Multivariate |
 | 2024-10-25    | [Anne Marie Svane](https://vbn.aau.dk/da/persons/142961)  | Normal Approximation for Geometric Functionals of Gibbs Point Processes |
 | 2024-10-04    | [J. Eduardo Vera-Valdés](https://everval.github.io)  | The Story of 1.5°C: Obtaining the Probability of Breaching the Goals of the Paris Agreement |
 | 2024-08-30    | [Julia Jansson](https://juliamariajansson.wordpress.com/), [Chalmers University of Technology](https://www.chalmers.se/en/)  | [Comparison of Point Process Learning and its special case Takacs-Fiksel estimation](https://arxiv.org/abs/2405.19523) |
