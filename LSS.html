@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.33">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-07ba0ad10f5680c660e360ac31d2f3b6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-8bd2cbafd95064f31258b43850cc8bc1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-51f9682fe127010eb71bcbaa9dfc2d2e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -164,14 +164,15 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>The Lunch Seminar Series (LSS) is a monthly event hosted by the Department of Mathematical Sciences at Aalborg University. The series is aimed to provide a platform to present and discuss research in a more casual setting.</p>
-<p>The seminars are held on a Friday from 12:15 to 13:00 at the latest but usually end earlier. For the fall 2024 semester, they will be held in <strong>Fib16 1.201</strong>. The event is open to everyone, you only need to bring your lunch and enjoy the presentations.</p>
-<p>The LSS is organized by <a href="https://everval.github.io/">Eduardo Vera-Valdés</a>. If you are interested in presenting your work, please use <a href="mailto:eduardo@math.aau.dk">this email</a>. Currently, we are accepting volunteers for the spring 2025 semester.</p>
+<p>The seminars are held on a Friday from 12:15 to 13:00 at the latest but usually end earlier. The event is open to everyone, you only need to bring your lunch and enjoy the presentations.</p>
+<p>The LSS is organized by <a href="https://everval.github.io/">Eduardo Vera-Valdés</a>. If you are interested in presenting your work, please use <a href="mailto:eduardo@math.aau.dk">this email</a>. Currently, we are accepting volunteers for the fall 2025 semester.</p>
 <section id="upcoming-seminars" class="level1">
 <h1>Upcoming Seminars</h1>
 <table class="caption-top table">
 <thead>
 <tr class="header">
 <th style="text-align: center;">Date</th>
+<th style="text-align: center;">Place</th>
 <th style="text-align: left;">Speaker</th>
 <th style="text-align: left;">Title</th>
 </tr>
@@ -179,26 +180,31 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td style="text-align: center;">2025-02-28</td>
+<td style="text-align: center;">TMV23 1.222</td>
 <td style="text-align: left;"><a href="https://www.linkedin.com/in/torbentvedebrink/">Torben Tvedebrink</a></td>
 <td style="text-align: left;">TBA</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">2025-03-28</td>
+<td style="text-align: center;">TMV23 1.238</td>
 <td style="text-align: left;"><a href="https://mikl.dk/">Mikkel Meyer Andersen</a></td>
 <td style="text-align: left;">TBA</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">2025-04-25</td>
+<td style="text-align: center;">TMV23 1.238</td>
 <td style="text-align: left;"><a href="https://vbn.aau.dk/en/persons/mikkelrs">Mikkel Runason Simonsen</a></td>
 <td style="text-align: left;">TBA</td>
 </tr>
 <tr class="even">
-<td style="text-align: center;">2025-05-30</td>
-<td style="text-align: left;">TBA</td>
+<td style="text-align: center;">2025-05-28</td>
+<td style="text-align: center;">TMV23 1.238</td>
+<td style="text-align: left;"><a href="https://vbn.aau.dk/en/persons/itj">Ib Thorsgaard Jensen</a></td>
 <td style="text-align: left;">TBA</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">2025-06-27</td>
+<td style="text-align: center;">TMV23 1.238</td>
 <td style="text-align: left;"><a href="https://vbn.aau.dk/en/persons/kasper/publications/">Kasper Sørensen</a></td>
 <td style="text-align: left;">TBA</td>
 </tr>
@@ -340,8 +346,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -452,7 +456,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
