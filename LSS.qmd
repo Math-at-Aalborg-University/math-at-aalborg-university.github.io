@@ -13,7 +13,7 @@ The LSS is organized by [Eduardo Vera-Valdés](https://everval.github.io/). If y
 
 |      Date      | Place       | Speaker          | Title                            |
 | :------------: | :---------: | :--------------- | :------------------------------- | 
-| 2025-02-28    | TMV23 1.222  | [Torben Tvedebrink](https://www.linkedin.com/in/torbentvedebrink/)  | TBA |
+| 2025-02-28    | TMV23 1.222  | [Torben Tvedebrink](https://www.linkedin.com/in/torbentvedebrink/)  | Modelling wind turbine performance in cold climates |
 | 2025-03-28    | TMV23 1.238  | [Mikkel Meyer Andersen](https://mikl.dk/)  | TBA |
 | 2025-04-25    | TMV23 1.238  | [Mikkel Runason Simonsen](https://vbn.aau.dk/en/persons/mikkelrs) | TBA |
 | 2025-05-23    | TMV23 1.238  | [Ib Thorsgaard Jensen](https://vbn.aau.dk/en/persons/itj)  | TBA |
