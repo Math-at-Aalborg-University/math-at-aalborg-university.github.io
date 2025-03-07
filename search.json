@@ -28,6 +28,13 @@
     "text": "This is the offstage page for the Department of Mathematical Sciences. You can find the official website here. This website is used for fast updates and hosting of events and research projects. It does not replace the official website, which maintains the official information."
   },
   {
+    "objectID": "index.html#course-on-resampling-techniques-in-statistics-and-data-science",
+    "href": "index.html#course-on-resampling-techniques-in-statistics-and-data-science",
+    "title": "Department of Mathematical Sciences, Aalborg University",
+    "section": "Course on Resampling Techniques in Statistics and Data Science",
+    "text": "Course on Resampling Techniques in Statistics and Data Science"
+  },
+  {
     "objectID": "index.html#xv-anniversary-of-the-mathematics-economics-program",
     "href": "index.html#xv-anniversary-of-the-mathematics-economics-program",
     "title": "Department of Mathematical Sciences, Aalborg University",
@@ -49,18 +56,25 @@
     "text": "Long Memory Symposium\nThe Long Memory Symposium is a collaboration between Aalborg University and Aarhus University. The last event in 2024 brought together researchers from across the world to discuss the latest advances in long memory processes and their applications. You can find more information here."
   },
   {
-    "objectID": "XV-program.html",
-    "href": "XV-program.html",
-    "title": "XV Anniversary of the Mathematics-Economics Program",
+    "objectID": "Resampling-PhD.html",
+    "href": "Resampling-PhD.html",
+    "title": "Course on Resampling Techniques in Statistics and Data Science",
     "section": "",
-    "text": "Schedule\n\n13:00-13:30 Welcome and Registration\n\n\n13:30-13:40 Opening Remarks\n\n\n13:40-14:15 Review of the First 15 Years of the Mathematics-Economics Program\nPresentation by Esben Høg\n\n\n14:15-14:45 Coffee Break\n\n\n14:45-16:00 Panel Discussion: Alumni Stories\n🎤 Panelists:\n\nAnca Pircalabu (Centrica Energy)\nAnne-Katrine K. Jøns (Novo Nordisk)\nJonas B. Jensen (SparNord)\nMorten Andersen (InCommodities)\nStine N. Jensen (Frederikshavn Gymnasium)\n\n\n\n16:00-16:30 Coffee and Cake\n\n\n16:30-17:20 Future of the Education\nSpeakers:\n\nThomas Hvolby (Centrica)\nAlex Vasegaard (AAU)\n\n\n\n17:20-18:00 Wine and Networking\n\n\n18:00 Dinner at the Faculty Club\n\n\n\nContact\nFor any questions regarding the event, please contact J. Eduardo Vera Valdés.\nWe look forward to celebrating with you!\n\n\nIndustry partners\nWe would like to thank the generous support of our industry partners:\n\n\n\n\n\n\n\n\n\nCentrica Energy\n\n\n\n\n\n\n\nSpar Nord\n\n\n\n\n\n\n\nInCommodities"
+    "text": "Resampling techniques are a powerful tool in the hands of statisticians and data scientists. They provide a way to estimate the distribution of a statistic without making strong assumptions about the underlying data-generating process. This is particularly useful when the data is not normally distributed or when the sample size is small. Resampling techniques are widely used in a variety of applications, including hypothesis testing, confidence interval estimation, and model selection.\n\n\n\nDay 1: Resampling under independence\n\nJackknife, bootstrap and subsampling approaches\nBias, variance, and distribution estimation\nConfidence intervals and hypothesis tests\nAccuracy of bootstrap\nLinear models and heterogeneity\nNonparametric density and regression estimation\n\nDay 2: Resampling under dependence\n\nBlock bootstrap\nModel-based bootstrap\nSieve bootstrap\nPeriodogram bootstrap (brief exposition)\nSubsampling\nNon-stationarity and long memory\n\n\n\n\n\nProf. Z. Psaradakis, Birkbeck, University of London.\nMarian Vavra, National Bank of Slovakia\n\n\n\n\nBasic knowledge of time series and statistics.\n\n\n\nThe course offers 2 ECTS credit points, subject to approval from your supervisor and a diploma for participation will be given."
   },
   {
-    "objectID": "LSS.html",
-    "href": "LSS.html",
-    "title": "Lunch Seminar Series",
+    "objectID": "Resampling-PhD.html#course-description",
+    "href": "Resampling-PhD.html#course-description",
+    "title": "Course on Resampling Techniques in Statistics and Data Science",
     "section": "",
-    "text": "The Lunch Seminar Series (LSS) is a monthly event hosted by the Department of Mathematical Sciences at Aalborg University. The series is aimed to provide a platform to present and discuss research in a more casual setting.\nThe seminars are held on a Friday from 12:15 to 13:00 at the latest but usually end earlier. The event is open to everyone, you only need to bring your lunch and enjoy the presentations.\nThe LSS is organized by Eduardo Vera-Valdés. If you are interested in presenting your work, please use this email. Currently, we are accepting volunteers for the fall 2025 semester.\n\nUpcoming Seminars\n\n\n\nDate\nPlace\nSpeaker\nTitle\n\n\n\n\n2025-02-28\nTMV23 1.222\nTorben Tvedebrink\nModelling wind turbine performance in cold climates\n\n\n2025-03-28\nTMV23 1.238\nMikkel Meyer Andersen\nTBA\n\n\n2025-04-25\nTMV23 1.238\nMikkel Runason Simonsen\nTBA\n\n\n2025-05-23\nTMV23 1.238\nIb Thorsgaard Jensen\nTBA\n\n\n2025-06-27\nTMV23 1.238\nKasper Sørensen\nTBA\n\n\n\n\n\nPast Seminars\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n2024-12-13\nOliver Matte\nA polaron in a weak magnetic field\n\n\n2024-11-22\nRasmus Waagepetersen\nMultivariate\n\n\n2024-10-25\nAnne Marie Svane\nNormal Approximation for Geometric Functionals of Gibbs Point Processes\n\n\n2024-10-04\nJ. Eduardo Vera-Valdés\nThe Story of 1.5°C: Obtaining the Probability of Breaching the Goals of the Paris Agreement\n\n\n2024-08-30\nJulia Jansson, Chalmers University of Technology\nComparison of Point Process Learning and its special case Takacs-Fiksel estimation\n\n\n2024-05-24\nCharisios Grivas\nAutomated Bandwidth Selection for Inference in Linear Models with Time-Varying Coefficients\n\n\n2024-04-26\nOrimar Sauri\nThe Euler Scheme for Stochastic Delay Differential Equations with Gaussian additive noise: Convergence and Asymptotic Error Distribution"
+    "text": "Resampling techniques are a powerful tool in the hands of statisticians and data scientists. They provide a way to estimate the distribution of a statistic without making strong assumptions about the underlying data-generating process. This is particularly useful when the data is not normally distributed or when the sample size is small. Resampling techniques are widely used in a variety of applications, including hypothesis testing, confidence interval estimation, and model selection.\n\n\n\nDay 1: Resampling under independence\n\nJackknife, bootstrap and subsampling approaches\nBias, variance, and distribution estimation\nConfidence intervals and hypothesis tests\nAccuracy of bootstrap\nLinear models and heterogeneity\nNonparametric density and regression estimation\n\nDay 2: Resampling under dependence\n\nBlock bootstrap\nModel-based bootstrap\nSieve bootstrap\nPeriodogram bootstrap (brief exposition)\nSubsampling\nNon-stationarity and long memory\n\n\n\n\n\nProf. Z. Psaradakis, Birkbeck, University of London.\nMarian Vavra, National Bank of Slovakia\n\n\n\n\nBasic knowledge of time series and statistics.\n\n\n\nThe course offers 2 ECTS credit points, subject to approval from your supervisor and a diploma for participation will be given."
+  },
+  {
+    "objectID": "Resampling-PhD.html#logistics",
+    "href": "Resampling-PhD.html#logistics",
+    "title": "Course on Resampling Techniques in Statistics and Data Science",
+    "section": "Logistics",
+    "text": "Logistics\n\nSchedule\nThe course will be held on May 20th-21th, 2025.\n\n\nVenue\nThe course will be held at AAU Innovate, Aalborg University, Aalborg, Denmark.\nThe building is located at Thomas Manns Vej 25, 9220 Aalborg East, Denmark.\n\n\n\n\nRegistration\nRegister by filling out this form.\nDeadline for registration is November May 15th, 2025.\n\n\nFee\nThe course is free of charge for all participants thanks to the generous support of the Danish Data Science Academy (DDSA).\nCosts associated with transportation and accommodation should be covered by the participants’ home institutions.\n\n\n\nQuestions\nFor any questions regarding the course, please contact Charisios Grivas, cgrivas@math.aau.dk.\nWe look forward to welcoming you!"
   },
   {
     "objectID": "LMS.html",
@@ -96,6 +110,20 @@
     "title": "AWE VI Long Memory Symposium",
     "section": "Sponsors",
     "text": "Sponsors\nThis workshop is sponsored by the Danish National Research Foundation (DNRF) Chair and the Centre for Research in Energy (CoRE) at Aarhus University.\nWe look forward to welcoming you to Denmark in November!"
+  },
+  {
+    "objectID": "LSS.html",
+    "href": "LSS.html",
+    "title": "Lunch Seminar Series",
+    "section": "",
+    "text": "The Lunch Seminar Series (LSS) is a monthly event hosted by the Department of Mathematical Sciences at Aalborg University. The series is aimed to provide a platform to present and discuss research in a more casual setting.\nThe seminars are held on a Friday from 12:15 to 13:00 at the latest but usually end earlier. The event is open to everyone, you only need to bring your lunch and enjoy the presentations.\nThe LSS is organized by Eduardo Vera-Valdés. If you are interested in presenting your work, please use this email. Currently, we are accepting volunteers for the fall 2025 semester.\n\nUpcoming Seminars\n\n\n\nDate\nPlace\nSpeaker\nTitle\n\n\n\n\n2025-02-28\nTMV23 1.222\nTorben Tvedebrink\nModelling wind turbine performance in cold climates\n\n\n2025-03-28\nTMV23 1.238\nMikkel Meyer Andersen\nTBA\n\n\n2025-04-25\nTMV23 1.238\nMikkel Runason Simonsen\nTBA\n\n\n2025-05-23\nTMV23 1.238\nIb Thorsgaard Jensen\nTBA\n\n\n2025-06-27\nTMV23 1.238\nKasper Sørensen\nTBA\n\n\n\n\n\nPast Seminars\n\n\n\nDate\nSpeaker\nTitle\n\n\n\n\n2024-12-13\nOliver Matte\nA polaron in a weak magnetic field\n\n\n2024-11-22\nRasmus Waagepetersen\nMultivariate\n\n\n2024-10-25\nAnne Marie Svane\nNormal Approximation for Geometric Functionals of Gibbs Point Processes\n\n\n2024-10-04\nJ. Eduardo Vera-Valdés\nThe Story of 1.5°C: Obtaining the Probability of Breaching the Goals of the Paris Agreement\n\n\n2024-08-30\nJulia Jansson, Chalmers University of Technology\nComparison of Point Process Learning and its special case Takacs-Fiksel estimation\n\n\n2024-05-24\nCharisios Grivas\nAutomated Bandwidth Selection for Inference in Linear Models with Time-Varying Coefficients\n\n\n2024-04-26\nOrimar Sauri\nThe Euler Scheme for Stochastic Delay Differential Equations with Gaussian additive noise: Convergence and Asymptotic Error Distribution"
+  },
+  {
+    "objectID": "XV-program.html",
+    "href": "XV-program.html",
+    "title": "XV Anniversary of the Mathematics-Economics Program",
+    "section": "",
+    "text": "Schedule\n\n13:00-13:30 Welcome and Registration\n\n\n13:30-13:40 Opening Remarks\n\n\n13:40-14:15 Review of the First 15 Years of the Mathematics-Economics Program\nPresentation by Esben Høg\n\n\n14:15-14:45 Coffee Break\n\n\n14:45-16:00 Panel Discussion: Alumni Stories\n🎤 Panelists:\n\nAnca Pircalabu (Centrica Energy)\nAnne-Katrine K. Jøns (Novo Nordisk)\nJonas B. Jensen (SparNord)\nMorten Andersen (InCommodities)\nStine N. Jensen (Frederikshavn Gymnasium)\n\n\n\n16:00-16:30 Coffee and Cake\n\n\n16:30-17:20 Future of the Education\nSpeakers:\n\nThomas Hvolby (Centrica)\nAlex Vasegaard (AAU)\n\n\n\n17:20-18:00 Wine and Networking\n\n\n18:00 Dinner at the Faculty Club\n\n\n\nContact\nFor any questions regarding the event, please contact J. Eduardo Vera Valdés.\nWe look forward to celebrating with you!\n\n\nIndustry partners\nWe would like to thank the generous support of our industry partners:\n\n\n\n\n\n\n\n\n\nCentrica Energy\n\n\n\n\n\n\n\nSpar Nord\n\n\n\n\n\n\n\nInCommodities"
   },
   {
     "objectID": "XV.html",
