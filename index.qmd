@@ -12,6 +12,10 @@ The Department of Mathematical Sciences at Aalborg University hosts a monthly se
 
 The Department of Mathematical Sciences at Aalborg University is committed to the study of Climate Change and its impacts on society. It hosts the [Climate AAU Hub](https://climateaau.github.io), containing [Climate Econometrics Research Projects](https://climateaau.github.io/climateeconometrics.html) and the yearly [Earth Day Events](https://climateaau.github.io/earthday2024.html).
 
+# PhD Courses 
+
+## [Course on Resampling Techniques in Statistics and Data Science](Resampling-PhD.qmd)
+
 # Previous Events
 
 ## [XV Anniversary of the Mathematics-Economics Program](XV.qmd)

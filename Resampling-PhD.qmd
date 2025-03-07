@@ -1,0 +1,93 @@
+---
+title: "Course on Resampling Techniques in Statistics and Data Science"
+subtitle: "Department of Mathematical Sciences, Aalborg University"
+format:
+    html: 
+        toc: true
+        number_sections: false
+    typst: default
+format-links:
+  - html
+  - format: typst
+    text: PDF
+    icon: file-pdf
+---
+
+## Course Description
+
+### Motivation
+
+Resampling techniques are a powerful tool in the hands of statisticians and data scientists. They provide a way to estimate the distribution of a statistic without making strong assumptions about the underlying data-generating process. This is particularly useful when the data is not normally distributed or when the sample size is small. Resampling techniques are widely used in a variety of applications, including hypothesis testing, confidence interval estimation, and model selection.
+
+
+### Contents
+
+Day 1: Resampling under independence
+
+- Jackknife, bootstrap and subsampling approaches
+- Bias, variance, and distribution estimation
+- Confidence intervals and hypothesis tests
+- Accuracy of bootstrap
+- Linear models and heterogeneity
+- Nonparametric density and regression estimation
+
+Day 2: Resampling under dependence
+
+- Block bootstrap
+- Model-based bootstrap
+- Sieve bootstrap
+- Periodogram bootstrap (brief exposition)
+- Subsampling
+- Non-stationarity and  long memory
+
+### Instructors
+
+- [Prof. Z. Psaradakis](https://www.bbk.ac.uk/our-staff/profile/8007598/zacharias-psaradakis), Birkbeck, University of London.
+
+- [Marian Vavra](https://scholar.google.com/citations?user=mO9-dzMAAAAJ&hl=en&oi=ao), National Bank of Slovakia
+
+### Prerequisites
+
+Basic knowledge of time series and statistics.
+
+### ECTS Credits
+
+The course offers 2 ECTS credit points, subject to approval from your supervisor. A diploma for participation will be given to all attendees.
+
+
+## Logistics
+
+### Schedule
+
+The course will be held on May 20th-21th, 2025. 
+
+### Venue
+
+The course will be held at AAU Innovate, Aalborg University, Aalborg, Denmark.
+
+The building is located at Thomas Manns Vej 25, 9220 Aalborg East, Denmark.
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2172.1507473874403!2d9.973768253554535!3d57.01472539086101!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464eccdbf9dfd6ed%3A0x727243796a71dd57!2sAAU%20Innovation!5e0!3m2!1sen!2sdk!4v1741339631309!5m2!1sen!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+### Registration
+
+Register by filling out [this form](https://forms.office.com/pages/responsepage.aspx?id=Sbrb9QbOb0msPgzxQ2HZNAp-JMhUx0JEsF5T9UGwOIhUN0NESUs1UDFUN0JST0pGNVRRR1FIOThONi4u&route=shorturl). 
+
+*Deadline for registration is November May 15th, 2025.*
+
+
+### Fee
+
+The course is free of charge for all participants thanks to the generous support of the [Danish Data Science Academy (DDSA)](https://ddsa.dk/). 
+
+Costs associated with transportation and accommodation should be covered by the participants' home institutions.
+
+![](/figs/DDSA_PrimaryLogo.png){fig-alt="Danish Data Science Academy Logo." width=70%}
+
+### Questions
+
+For any questions regarding the course, please contact [Charisios Grivas](https://sites.google.com/view/charisiosgrivas/home), [cgrivas@math.aau.dk](mailto: cgrivas@math.aau.dk).
+
+We look forward to welcoming you!

@@ -14,6 +14,8 @@ website:
         text: Seminar Series
       - href: https://climateaau.github.io/
         text: Climate@AAU
+      - href: Resampling-PhD.qmd
+        text: Course in Resampling Techniques
       - text: Previous Events
         menu:
         - href: XV.qmd
