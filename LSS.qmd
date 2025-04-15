@@ -13,8 +13,6 @@ The LSS is organized by [Eduardo Vera-Valdés](https://everval.github.io/). If y
 
 |      Date      | Place       | Speaker          | Title                            |
 | :------------: | :---------: | :--------------- | :------------------------------- | 
-| 2025-02-28    | TMV23 1.222  | [Torben Tvedebrink](https://www.linkedin.com/in/torbentvedebrink/)  | Modelling wind turbine performance in cold climates |
-| 2025-03-28    | TMV23 1.238  | [Mikkel Meyer Andersen](https://mikl.dk/)  | TBA |
 | 2025-04-25    | TMV23 1.238  | [Mikkel Runason Simonsen](https://vbn.aau.dk/en/persons/mikkelrs) | TBA |
 | 2025-05-23    | TMV23 1.238  | [Ib Thorsgaard Jensen](https://vbn.aau.dk/en/persons/itj)  | TBA |
 | 2025-06-27    | TMV23 1.238  | [Kasper Sørensen](https://vbn.aau.dk/en/persons/kasper/publications/)  | TBA |
@@ -24,6 +22,8 @@ The LSS is organized by [Eduardo Vera-Valdés](https://everval.github.io/). If y
 
 |      Date      | Speaker          | Title                            |
 | :------------: | :--------------- | :------------------------------- |
+| 2025-03-28    | TMV23 1.238  | [Mikkel Meyer Andersen](https://mikl.dk/)  | Shotgun sequencing: Evidential weight accounting for errors |
+| 2025-02-28    | TMV23 1.222  | [Torben Tvedebrink](https://www.linkedin.com/in/torbentvedebrink/)  | Modelling wind turbine performance in cold climates |
 | 2024-12-13    | [Oliver Matte](https://vbn.aau.dk/en/persons/oliver)  | A polaron in a weak magnetic field |
 | 2024-11-22    | [Rasmus Waagepetersen](https://people.math.aau.dk/~rw/)  | Multivariate |
 | 2024-10-25    | [Anne Marie Svane](https://vbn.aau.dk/da/persons/142961)  | Normal Approximation for Geometric Functionals of Gibbs Point Processes |
