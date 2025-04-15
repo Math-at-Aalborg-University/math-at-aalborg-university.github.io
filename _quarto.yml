@@ -7,9 +7,10 @@ website:
   open-graph: true
   navbar:
     background: "#211a52"
+    foreground: light
     left:
-#      - href: index.qmd
-#        text: Home
+      - href: index.qmd
+        text: Home
       - href: LSS.qmd
         text: Seminar Series
       - href: https://climateaau.github.io/
@@ -37,10 +38,10 @@ website:
 
 format:
   html:
-    theme: lux
+    theme: morph
     css: styles.css
-    fontsize: 1rem
-    toc: true
+#    fontsize: 1rem
+#    toc: true
 
 
 
