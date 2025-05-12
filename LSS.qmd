@@ -13,8 +13,7 @@ The LSS is organized by [Eduardo Vera-Valdés](https://everval.github.io/). If y
 
 |      Date      | Place       | Speaker          | Title                            |
 | :------------: | :---------: | :--------------- | :------------------------------- | 
-| 2025-04-25    | TMV23 1.238  | [Mikkel Runason Simonsen](https://vbn.aau.dk/en/persons/mikkelrs) | Hematological Research: A Statisticians Perspective |
-| 2025-05-23    | TMV23 1.238  | [Ib Thorsgaard Jensen](https://vbn.aau.dk/en/persons/itj)  | TBA |
+| 2025-05-23    | TMV23 1.238  | [Ib Thorsgaard Jensen](https://vbn.aau.dk/en/persons/itj)  | Compositional Approximation of Correlation Coefficients for Microbiome Data with Applications on Atopic Dermatitis |
 | 2025-06-27    | TMV23 1.238  | [Kasper Sørensen](https://vbn.aau.dk/en/persons/kasper/publications/)  | TBA |
 
 # Past Seminars
@@ -22,6 +21,7 @@ The LSS is organized by [Eduardo Vera-Valdés](https://everval.github.io/). If y
 
 |      Date      | Speaker          | Title                            |
 | :------------: | :--------------- | :------------------------------- |
+| 2025-04-25    | [Mikkel Runason Simonsen](https://vbn.aau.dk/en/persons/mikkelrs) | Hematological Research: A Statisticians Perspective |
 | 2025-03-28    | [Mikkel Meyer Andersen](https://mikl.dk/)  | Shotgun sequencing: Evidential weight accounting for errors |
 | 2025-02-28    | [Torben Tvedebrink](https://www.linkedin.com/in/torbentvedebrink/), [*Vestas*](https://www.vestas.com/en)  | Modelling wind turbine performance in cold climates |
 | 2024-12-13    | [Oliver Matte](https://vbn.aau.dk/en/persons/oliver)  | A polaron in a weak magnetic field |
