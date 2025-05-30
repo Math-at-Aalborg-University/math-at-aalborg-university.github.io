@@ -12,20 +12,22 @@ The Department of Mathematical Sciences at Aalborg University hosts a monthly se
 
 The Department of Mathematical Sciences at Aalborg University is committed to the study of Climate Change and its impacts on society. It hosts the [Climate AAU Hub](https://climateaau.github.io), containing [Climate Econometrics Research Projects](https://climateaau.github.io/climateeconometrics.html) and the yearly [Earth Day Events](https://climateaau.github.io/earthday2024.html).
 
-## PhD Courses 
-
-#### [Course on Resampling Techniques in Statistics and Data Science](Resampling-PhD.qmd)
 
 ## Previous Events
 
-#### [XV Anniversary of the Mathematics-Economics Program](XV.qmd)
+#### [Course on Resampling Techniques in Statistics and Data Science](Resampling-PhD.qmd)
 
-The Mathematics-Economics Program at Aalborg University celebrated its 15th anniversary in 2024. The Department hosted an event to bring together students, alumni, faculty, and industry leaders to connect, reflect, and look ahead. You can find more information [here](XV.qmd).
+The Department of Mathematical Sciences at Aalborg University hosted a PhD course on resampling techniques in statistics and data science. The course was on May 20th-21st, 2025. You can find more information [here](Resampling-PhD.qmd).
 
 #### [PhD Course on Long Memory Processes](LM-PhD.qmd)
 
 The Department of Mathematical Sciences at Aalborg University hosted a PhD course on long memory processes. The course was on November 26th-27th, 2024. You can find more information [here](LM-PhD.qmd).
 
+
 #### [Long Memory Symposium](LMS.qmd)
 
 The Long Memory Symposium is a collaboration between Aalborg University and Aarhus University. The last event in 2024 brought together researchers from across the world to discuss the latest advances in long memory processes and their applications. You can find more information [here](LMS.qmd).
+
+#### [XV Anniversary of the Mathematics-Economics Program](XV.qmd)
+
+The Mathematics-Economics Program at Aalborg University celebrated its 15th anniversary in 2024. The Department hosted an event to bring together students, alumni, faculty, and industry leaders to connect, reflect, and look ahead. You can find more information [here](XV.qmd).

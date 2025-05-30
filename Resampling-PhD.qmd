@@ -13,6 +13,13 @@ format-links:
     icon: file-pdf
 ---
 
+::: {.callout-note appareance="minimal"}
+
+Thank you for joining us to the Resampling Techniques PhD Course. Keep an eye on this page for updates and information about future courses.
+
+:::
+
+
 ## Course Description
 
 ### Motivation

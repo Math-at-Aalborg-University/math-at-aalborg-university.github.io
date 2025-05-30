@@ -15,8 +15,6 @@ website:
         text: Seminar Series
       - href: https://climateaau.github.io/
         text: Climate@AAU
-      - href: Resampling-PhD.qmd
-        text: Course in Resampling Techniques
       - text: Previous Events
         menu:
         - href: XV.qmd
@@ -25,14 +23,14 @@ website:
           text: PhD Course in Long Memory
         - href: LMS.qmd
           text: Long Memory Symposium
+        - href: Resampling-PhD.qmd
+          text: PhD Course in Resampling Techniques
 #      - about.qmd
     tools:
       - icon: link-45deg
         href: https://www.math.aau.dk/
       #- icon: github
       #  href: https://github.com/Math-at-Aalborg-University
-      #- icon: briefcase-fill
-      #  href: https://www.scopus.com/authid/detail.uri?authorId=57219050544
       - icon: linkedin
         href: https://www.linkedin.com/company/institut-for-matematiske-fag-aalborg-universitet/
 
