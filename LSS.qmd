@@ -13,8 +13,7 @@ The LSS is organized by [Eduardo Vera-Valdés](https://everval.github.io/). If y
 
 |      Date      | Place       | Speaker          | Title                            |
 | :------------: | :---------: | :--------------- | :------------------------------- | 
-| 2025-08-29    | TMV23 1.238  | [Kasper Sørensen](https://vbn.aau.dk/en/persons/kasper/publications/)  | What is “Bulk-edge correspondence”? |
-| 2025-09-12    | TMV23 1.238  | [Daniel Rolandsgard Kjellevold](https://www.ntnu.edu/employees/daniel.kjellevold)  | TBA |
+| 2025-09-12    | TMV23 1.238  | [Daniel Rolandsgard Kjellevold](https://www.ntnu.edu/employees/daniel.kjellevold)  | Features on fluid surfaces as point patterns |
 | 2025-09-26    | TMV23 1.238  | [Esben Høg](https://vbn.aau.dk/da/persons/esben) | Negative electricity prices and the mathematics of a new class of extended hyperbolic sine functions |
 | 2025-10-31    | TMV23 1.238  | [Jakob Gulddahl Rasmussen](https://vbn.aau.dk/en/persons/102969)  | TBA |
 | 2025-11-28    | TMV23 1.238  | TBA  | TBA |
@@ -24,6 +23,7 @@ The LSS is organized by [Eduardo Vera-Valdés](https://everval.github.io/). If y
 
 |      Date      | Speaker          | Title                            |
 | :------------: | :--------------- | :------------------------------- |
+| 2025-08-29    | [Kasper Sørensen](https://vbn.aau.dk/en/persons/kasper/publications/)  | What is “Bulk-edge correspondence”? |
 | 2025-05-23    | [Ib Thorsgaard Jensen](https://vbn.aau.dk/en/persons/itj)  | Compositional Approximation of Correlation Coefficients for Microbiome Data with Applications on Atopic Dermatitis |
 | 2025-04-25    | [Mikkel Runason Simonsen](https://vbn.aau.dk/en/persons/mikkelrs) | Hematological Research: A Statisticians Perspective |
 | 2025-03-28    | [Mikkel Meyer Andersen](https://mikl.dk/)  | Shotgun sequencing: Evidential weight accounting for errors |
