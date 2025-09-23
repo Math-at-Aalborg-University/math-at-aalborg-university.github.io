@@ -1,4 +1,5 @@
 /.quarto/
 /_site/
-/figs/
 *.html
+.DS_Store
+/figs/.DS_Store
