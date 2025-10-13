@@ -3,3 +3,5 @@
 *.html
 .DS_Store
 /figs/.DS_Store
+/.vscode/
+**/*.quarto_ipynb

@@ -15,7 +15,7 @@ website:
         text: Seminar Series
       - href: https://climateaau.github.io/
         text: Climate@AAU
-      - href: EMCC26.qmd
+      - href: https://climateaau.github.io/emcc-x
         text: EMCC 2026
       - text: Previous Events
         menu:
