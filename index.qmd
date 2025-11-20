@@ -14,7 +14,6 @@ The Department of Mathematical Sciences at Aalborg University is committed to th
 
 Furthermore, the Department is proud to host the upcoming 10th Conference on Econometric Models of Climate Change (EMCC-X) in August 20-21, 2026. More information about the conference at the official conference website [here](https://sites.google.com/view/emccconference) or the website for EMCC-X [here](https://climateaau.github.io/emcc-x).
 
-
 ## Previous Events
 
 #### [Course on Resampling Techniques in Statistics and Data Science](Resampling-PhD.qmd)

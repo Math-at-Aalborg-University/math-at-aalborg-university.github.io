@@ -13,26 +13,27 @@ The LSS is organized by [Eduardo Vera-Valdés](https://everval.github.io/). If y
 
 |      Date      | Place       | Speaker          | Title                            |
 | :------------: | :---------: | :--------------- | :------------------------------- | 
-| 2025-10-31    | TMV23 1.238  | [Jakob Gulddahl Rasmussen](https://vbn.aau.dk/en/persons/102969)  | TBA |
-| 2025-11-28    | TMV23 1.238  | [Martin Voigt Vejling](https://vbn.aau.dk/en/persons/mvv)  | TBA |
+| 2025-11-28    | TMV23 1.238  | [J. Eduardo Vera-Valdés](https://everval.github.io)   | Global Warming Acceleration |
+| TBD    | TMV23 1.238  | [Martin Voigt Vejling](https://vbn.aau.dk/en/persons/mvv)  | TBA |
 
 # Past Seminars
 
 
 |      Date      | Speaker          | Title                            |
 | :------------: | :--------------- | :------------------------------- |
+| 2025-10-31     | [Jakob Gulddahl Rasmussen](https://vbn.aau.dk/en/persons/102969)  | TBA |
 | 2025-09-26     | [Esben Høg](https://vbn.aau.dk/da/persons/esben) | Negative electricity prices and the mathematics of a new class of extended hyperbolic sine functions |
-| 2025-09-12    | [Daniel Rolandsgard Kjellevold](https://www.ntnu.edu/employees/daniel.kjellevold), [Norwegian University of Science and Technology](https://www.ntnu.edu/)  | Features on fluid surfaces as point patterns |
-| 2025-08-29    | [Kasper Sørensen](https://vbn.aau.dk/en/persons/kasper/publications/)  | What is “Bulk-edge correspondence”? |
-| 2025-05-23    | [Ib Thorsgaard Jensen](https://vbn.aau.dk/en/persons/itj)  | Compositional Approximation of Correlation Coefficients for Microbiome Data with Applications on Atopic Dermatitis |
-| 2025-04-25    | [Mikkel Runason Simonsen](https://vbn.aau.dk/en/persons/mikkelrs) | Hematological Research: A Statisticians Perspective |
-| 2025-03-28    | [Mikkel Meyer Andersen](https://mikl.dk/)  | Shotgun sequencing: Evidential weight accounting for errors |
-| 2025-02-28    | [Torben Tvedebrink](https://www.linkedin.com/in/torbentvedebrink/), [*Vestas*](https://www.vestas.com/en)  | Modelling wind turbine performance in cold climates |
-| 2024-12-13    | [Oliver Matte](https://vbn.aau.dk/en/persons/oliver)  | A polaron in a weak magnetic field |
-| 2024-11-22    | [Rasmus Waagepetersen](https://people.math.aau.dk/~rw/)  | Multivariate |
-| 2024-10-25    | [Anne Marie Svane](https://vbn.aau.dk/da/persons/142961)  | Normal Approximation for Geometric Functionals of Gibbs Point Processes |
-| 2024-10-04    | [J. Eduardo Vera-Valdés](https://everval.github.io)  | The Story of 1.5°C: Obtaining the Probability of Breaching the Goals of the Paris Agreement |
-| 2024-08-30    | [Julia Jansson](https://juliamariajansson.wordpress.com/), [*Chalmers University of Technology*](https://www.chalmers.se/en/)  | [Comparison of Point Process Learning and its special case Takacs-Fiksel estimation](https://arxiv.org/abs/2405.19523) |
-| 2024-05-24 | [Charisios Grivas](https://vbn.aau.dk/da/persons/cgrivas) | Automated Bandwidth Selection for Inference in Linear Models with Time-Varying Coefficients    |  
-| 2024-04-26 | [Orimar Sauri](https://sites.google.com/view/osauri/) | The Euler Scheme for Stochastic Delay Differential Equations with Gaussian additive noise: Convergence and Asymptotic Error Distribution |
+| 2025-09-12     | [Daniel Rolandsgard Kjellevold](https://www.ntnu.edu/employees/daniel.kjellevold), [Norwegian University of Science and Technology](https://www.ntnu.edu/)  | Features on fluid surfaces as point patterns |
+| 2025-08-29     | [Kasper Sørensen](https://vbn.aau.dk/en/persons/kasper/publications/)  | What is “Bulk-edge correspondence”? |
+| 2025-05-23     | [Ib Thorsgaard Jensen](https://vbn.aau.dk/en/persons/itj)  | Compositional Approximation of Correlation Coefficients for Microbiome Data with Applications on Atopic Dermatitis |
+| 2025-04-25     | [Mikkel Runason Simonsen](https://vbn.aau.dk/en/persons/mikkelrs) | Hematological Research: A Statisticians Perspective |
+| 2025-03-28     | [Mikkel Meyer Andersen](https://mikl.dk/)  | Shotgun sequencing: Evidential weight accounting for errors |
+| 2025-02-28     | [Torben Tvedebrink](https://www.linkedin.com/in/torbentvedebrink/), [*Vestas*](https://www.vestas.com/en)  | Modelling wind turbine performance in cold climates |
+| 2024-12-13     | [Oliver Matte](https://vbn.aau.dk/en/persons/oliver)  | A polaron in a weak magnetic field |
+| 2024-11-22     | [Rasmus Waagepetersen](https://people.math.aau.dk/~rw/)  | Multivariate |
+| 2024-10-25     | [Anne Marie Svane](https://vbn.aau.dk/da/persons/142961)  | Normal Approximation for Geometric Functionals of Gibbs Point Processes |
+| 2024-10-04     | [J. Eduardo Vera-Valdés](https://everval.github.io)  | The Story of 1.5°C: Obtaining the Probability of Breaching the Goals of the Paris Agreement |
+| 2024-08-30     | [Julia Jansson](https://juliamariajansson.wordpress.com/), [*Chalmers University of Technology*](https://www.chalmers.se/en/)  | [Comparison of Point Process Learning and its special case Takacs-Fiksel estimation](https://arxiv.org/abs/2405.19523) |
+| 2024-05-24     | [Charisios Grivas](https://vbn.aau.dk/da/persons/cgrivas) | Automated Bandwidth Selection for Inference in Linear Models with Time-Varying Coefficients    |  
+| 2024-04-26     | [Orimar Sauri](https://sites.google.com/view/osauri/) | The Euler Scheme for Stochastic Delay Differential Equations with Gaussian additive noise: Convergence and Asymptotic Error Distribution |
 
