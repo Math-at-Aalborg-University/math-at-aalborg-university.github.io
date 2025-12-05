@@ -13,6 +13,8 @@ website:
         text: Home
       - href: LSS.qmd
         text: Seminar Series
+      - href: HF-PhD.qmd
+        text: HF Econometrics PhD Course
       - href: https://climateaau.github.io/
         text: Climate@AAU
       - href: https://climateaau.github.io/emcc-x
