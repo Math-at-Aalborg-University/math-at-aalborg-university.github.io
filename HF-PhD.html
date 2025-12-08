@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>10th Conference on Econometric Models of Climate Change (EMCC) – AAU-Math</title>
+<title>High-frequency econometrics: from realized volatility to realized drift – AAU-Math</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,14 +32,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-339e1df8b5fde8b8b0dcba726537f961.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f7e7777eb969759b4bf5e640b1604322.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,18 +71,20 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="10th Conference on Econometric Models of Climate Change (EMCC) – AAU-Math">
-<meta property="og:description" content="Offsite page for the Department of Mathematical Sciences at Aalborg University">
+<meta property="og:title" content="High-frequency econometrics: from realized volatility to realized drift – AAU-Math">
+<meta property="og:description" content="DGPE PhD course at the Department of Mathematical Sciences, Aalborg University">
 <meta property="og:site_name" content="AAU-Math">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">AAU-Math</span>
     </a>
@@ -101,11 +104,15 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Seminar Series</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link active" href="./HF-PhD.html" aria-current="page"> 
+<span class="menu-text">HF Econometrics PhD Course</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="https://climateaau.github.io/"> 
 <span class="menu-text">Climate@AAU</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./EMCC26.html" aria-current="page"> 
+    <a class="nav-link" href="https://climateaau.github.io/emcc-x"> 
 <span class="menu-text">EMCC 2026</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -144,13 +151,37 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#course-description" id="toc-course-description" class="nav-link active" data-scroll-target="#course-description">Course Description</a>
+  <ul class="collapse">
+  <li><a href="#bibliography" id="toc-bibliography" class="nav-link" data-scroll-target="#bibliography">Bibliography:</a></li>
+  </ul></li>
+  <li><a href="#schedule" id="toc-schedule" class="nav-link" data-scroll-target="#schedule">Schedule</a></li>
+  <li><a href="#instructors" id="toc-instructors" class="nav-link" data-scroll-target="#instructors">Instructors</a></li>
+  <li><a href="#prerequisites" id="toc-prerequisites" class="nav-link" data-scroll-target="#prerequisites">Prerequisites</a></li>
+  <li><a href="#ects-credits" id="toc-ects-credits" class="nav-link" data-scroll-target="#ects-credits">ECTS Credits</a></li>
+  <li><a href="#logistics" id="toc-logistics" class="nav-link" data-scroll-target="#logistics">Logistics</a>
+  <ul class="collapse">
+  <li><a href="#schedule-1" id="toc-schedule-1" class="nav-link" data-scroll-target="#schedule-1">Schedule</a></li>
+  <li><a href="#venue" id="toc-venue" class="nav-link" data-scroll-target="#venue">Venue</a></li>
+  <li><a href="#registration" id="toc-registration" class="nav-link" data-scroll-target="#registration">Registration</a></li>
+  <li><a href="#fee" id="toc-fee" class="nav-link" data-scroll-target="#fee">Fee</a></li>
+  <li><a href="#questions" id="toc-questions" class="nav-link" data-scroll-target="#questions">Questions</a></li>
+  </ul></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="HF-PhD.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">10th Conference on Econometric Models of Climate Change (EMCC)</h1>
+<h1 class="title">High-frequency econometrics: from realized volatility to realized drift</h1>
+<p class="subtitle lead">DGPE PhD course at the Department of Mathematical Sciences, Aalborg University</p>
 </div>
 
 
@@ -167,12 +198,89 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>At Aalborg University, we are excited to celebrate the 10th Conference on Econometric Models of Climate Change (EMCC) 🎉!</p>
-<p>The Conference will be held on August 20-21, 2026 at AAU CREATE.</p>
-<p>Information and call for papers will be available soon.</p>
-<p>The conference brings together economists, econometricians, climate scientists, statisticians, and policy researchers to improve our understanding of climate change, its impacts, and effective policy solutions. The EMCC conference series was established in 2016 and has been supported by themed issues of the Journal of Econometrics, Energy Economics, the International Journal of Forecasting, and Advances in Econometrics. Previous iterations of the conference are linked at the <a href="https://sites.google.com/view/emccconference/home">official website</a>.</p>
+<section id="course-description" class="level2">
+<h2 class="anchored" data-anchor-id="course-description">Course Description</h2>
+<p>The course is designed for PhD students who have an interest in the application of time series methods to financial data. The analysis of tick-by-tick financial data has become a central topic in financial econometrics, driven by the increasing availability of such data. Compared with traditional time series, high-frequency data provide a substantial number of observations, which can yield richer information.</p>
+<p>This course consists of two parts. The first part introduces the fundamental concepts of continuous-time econometrics, such as how to model log-prices, the infill asymptotic regime and how to estimate realized volatility. We also revise the concepts of Brownian motion and Poisson process.</p>
+<p>The second part will show the development of a recent research agenda which was devoted to the analysis of the drift component of the Itô semimartingale. The topics covered will be:</p>
+<ul>
+<li>Why drift is invisible in the classical case?</li>
+<li>Non classical model 1: drift bursts</li>
+<li>The economics of drift bursts</li>
+<li>Non classical model 2: frequency-dependent drift</li>
+<li>Back to the classical model: drift estimation</li>
+<li>Application: flash crashes, volatility explosions, volatility forecasting, momentum trading.</li>
+</ul>
+<section id="bibliography" class="level3">
+<h3 class="anchored" data-anchor-id="bibliography">Bibliography:</h3>
+<ol type="1">
+<li><p>Laurent, S., and Shi, S. (2020). Volatility estimation and jump detection for drift–diffusion processes. Journal of Econometrics, 217(2), 259-290.</p></li>
+<li><p>Christensen, K., Oomen, R., and Renò, R. (2022). The drift burst hypothesis. Journal of Econometrics, 227(2), 461–497.</p></li>
+<li><p>Laurent, S., and Shi, S. (2022). Unit root test with high-frequency data. Econometric Theory, 38(1), 113-171.</p></li>
+<li><p>Andersen, T. G., Li, Y., Todorov, V., and Zhou, B. (2023). Volatility measurement with pockets of extreme return persistence. Journal of Econometrics, 237(2), 105048.</p></li>
+<li><p>Laurent, S., Renò, R., and Shi, S. (2024). Realized drift. Journal of Econometrics, 179, 105813.</p></li>
+<li><p>Flora, M., Ferrara, G., and Renò, R. (2025). The Impact of COVID-19 on Italian Sovereign Bond Market Quality. Journal of Financial Services Research, 67, 55–71.</p></li>
+<li><p>Flora, M., and Renò, R. (2025). V-Shapes. Journal of Banking and Finance, 179, 107521.</p></li>
+<li><p>Kolokolov, A., Renò, R., and Zoi, P. (2025). BUMVU estimators. Journal of Econometrics, in press, 105942.</p></li>
+<li><p>Bellia, M., Christensen, K., Kolokolov, A., Pelizzon, L., and Renò, R. (2025). Do Designated Market Makers Provide Liquidity During Extreme Downward Price Movements? Journal of Financial Markets, 76, 100988.</p></li>
+<li><p>Benvenuti, F. and Renò, R. (2025). A seismometer for Itō semimartingales. Working Paper.</p></li>
+<li><p>Aït-Sahalia, Y. and Jacod, J. [2014], High-frequency financial econometrics, Princeton University Press.</p></li>
+<li><p>Jacod, J. and Protter, P. E. [2012], Discretization of Processes, 2nd edn, Springer-Verlag, Berlin.</p></li>
+</ol>
+</section>
+</section>
+<section id="schedule" class="level2">
+<h2 class="anchored" data-anchor-id="schedule">Schedule</h2>
+<p>This course corresponds to 2 full days of teaching (12 hrs) in addition to readings and exam. The course will be held on the 26th and 27th March, both days for 3 hours in the morning and 3 hours in the afternoon.</p>
+</section>
+<section id="instructors" class="level2">
+<h2 class="anchored" data-anchor-id="instructors">Instructors</h2>
+<ul>
+<li><p><a href="https://vbn.aau.dk/da/persons/fraben/">Assistant professor Francesco Benvenuti</a>, Aalborg University.</p></li>
+<li><p><a href="https://vbn.aau.dk/da/persons/osauri/">Associate professor Orimar Sauri</a>, Aalborg University.</p></li>
+<li><p><a href="https://roberto-reno.faculty.essec.edu/">Professor Roberto Renò</a>, ESSEC Business School.</p></li>
+</ul>
+</section>
+<section id="prerequisites" class="level2">
+<h2 class="anchored" data-anchor-id="prerequisites">Prerequisites</h2>
+<p>Prerequisites: graduate level knowledge of statistics or econometrics; notions of probability theory and analysis.</p>
+</section>
+<section id="ects-credits" class="level2">
+<h2 class="anchored" data-anchor-id="ects-credits">ECTS Credits</h2>
+<p>The course offers 2 ECTS credit points. A diploma for participation will be given to all attendees.</p>
+<p>In order to receive the 2 ECTS the students will have to submit a referee report of a paper assigned randomly, which deals with the topic of the course.</p>
+</section>
+<section id="logistics" class="level2">
+<h2 class="anchored" data-anchor-id="logistics">Logistics</h2>
+<section id="schedule-1" class="level3">
+<h3 class="anchored" data-anchor-id="schedule-1">Schedule</h3>
+<p>The course will be held on March 26–27, 2026.</p>
+</section>
+<section id="venue" class="level3">
+<h3 class="anchored" data-anchor-id="venue">Venue</h3>
+<p>The course will be held at AAU Innovate, Aalborg University, Aalborg, Denmark.</p>
+<p>The building is located at Thomas Manns Vej 25, 9220 Aalborg East, Denmark.</p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2172.1507473874403!2d9.973768253554535!3d57.01472539086101!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464eccdbf9dfd6ed%3A0x727243796a71dd57!2sAAU%20Innovation!5e0!3m2!1sen!2sdk!4v1741339631309!5m2!1sen!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+</section>
+<section id="registration" class="level3">
+<h3 class="anchored" data-anchor-id="registration">Registration</h3>
+<p>Registration form will be available soon.</p>
+</section>
+<section id="fee" class="level3">
+<h3 class="anchored" data-anchor-id="fee">Fee</h3>
+<p>The course is free of charge for graduate students enrolled at the departments participating in the <a href="https://ddsa.dk/">Danish Graduate Programme in Economics (DGPE)</a> network.</p>
+<p>Thanks to the DGPE support, lunch, tea and coffee throughout the course for all course participants and one dinner for all participants is included.</p>
+<p>Costs associated with transportation and accommodation should be covered by the participants’ home institutions.</p>
+</section>
+<section id="questions" class="level3">
+<h3 class="anchored" data-anchor-id="questions">Questions</h3>
+<p>For any questions regarding the course, please contact <a href="https://vbn.aau.dk/da/persons/fraben/">Francesco Benvenuti</a>, <a href="mailto:%20fraben@math.aau.dk">fraben@math.aau.dk</a>.</p>
+<p>We look forward to welcoming you!</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -226,13 +334,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
