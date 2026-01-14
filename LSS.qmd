@@ -10,16 +10,16 @@ The LSS is organized by [Eduardo Vera-Valdés](https://everval.github.io/). If y
 
 # Upcoming Seminars
 
-
 |      Date      | Place       | Speaker          | Title                            |
 | :------------: | :---------: | :--------------- | :------------------------------- | 
-| TBD    | TMV23 1.238  | [Martin Voigt Vejling](https://vbn.aau.dk/en/persons/mvv)  | TBA |
-| TBD    | TMV23 1.238  | Christophe Biscio  | TBA |
-| TBD    | TMV23 1.238  | Mikkel Hviid Thorn | TBA |
-| TBD    | TMV23 1.238  | Martin Scotti | TBA |
+| 2026-02-06 | TMV23 1.238 | [Martin Voigt Vejling](https://vbn.aau.dk/en/persons/mvv) | TBA   |
+| 2026-03-06 | TMV23 1.136 | [Martin Scotti](https://scholar.google.com/citations?user=baUoDI0AAAAJ&hl=fr)                                             | TBA   |
+| 2026-04-10 | TMV23 1.238 | [Mikkel Hviid Thorn](https://vbn.aau.dk/en/persons/mikkel-hviid-thorn/)                                        | TBA   |
+| 2026-05-08 | TMV23 1.238 | [Christophe Biscio](https://biscio.github.io/)                                         | TBA   |
+| 2026-06-05 | TMV23 1.238 | TBD                                                       | TBA   |
+
 
 # Past Seminars
-
 
 |      Date      | Speaker          | Title                            |
 | :------------: | :--------------- | :------------------------------- |
