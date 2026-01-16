@@ -6,7 +6,7 @@ The Lunch Seminar Series (LSS) is a monthly event hosted by the Department of Ma
 
 The seminars are held on a Friday from 12:15 to 13:00 at the latest but usually end earlier. The event is open to everyone, you only need to bring your lunch and enjoy the presentations.
 
-The LSS is organized by [Eduardo Vera-Valdés](https://everval.github.io/). If you are interested in presenting your work, please use [this email](mailto:eduardo@math.aau.dk). Currently, we are accepting volunteers for the fall 2025 semester.
+The LSS is organized by [Eduardo Vera-Valdés](https://everval.github.io/). If you are interested in presenting your work, please use [this email](mailto:eduardo@math.aau.dk). Currently, we are accepting volunteers for the fall 2026 semester.
 
 # Upcoming Seminars
 
@@ -16,7 +16,7 @@ The LSS is organized by [Eduardo Vera-Valdés](https://everval.github.io/). If y
 | 2026-03-06 | TMV23 1.136 | [Martin Scotti](https://scholar.google.com/citations?user=baUoDI0AAAAJ&hl=fr)                                             | TBA   |
 | 2026-04-10 | TMV23 1.238 | [Mikkel Hviid Thorn](https://vbn.aau.dk/en/persons/mikkel-hviid-thorn/)                                        | TBA   |
 | 2026-05-08 | TMV23 1.238 | [Christophe Biscio](https://biscio.github.io/)                                         | TBA   |
-| 2026-06-05 | TMV23 1.238 | TBD                                                       | TBA   |
+| 2026-05-28 | TMV23 1.238 | [Ege Rubak](https://vbn.aau.dk/da/persons/rubak/) - [Anne Marie Svane](https://vbn.aau.dk/da/persons/142961/)                                                       | TBA   |
 
 
 # Past Seminars
