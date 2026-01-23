@@ -1,6 +1,9 @@
 ---
 title: "Lunch Seminar Series"
+image: /figs/lss_header.jpg
 ---
+
+![](figs/lss_header.jpg){width=100%}
 
 The Lunch Seminar Series (LSS) is a monthly event hosted by the Department of Mathematical Sciences at Aalborg University. The series is aimed to provide a platform to present and discuss research in a more casual setting. 
 
