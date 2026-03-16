@@ -59,10 +59,6 @@ Press.
 
 12. Jacod, J. and Protter, P. E. [2012], Discretization of Processes, 2nd edn, Springer-Verlag, Berlin.
 
-## Schedule
-
-This course corresponds to 2 full days of teaching (12 hrs) in addition to readings and exam. The course will be held on the 26th and 27th March, both days for 3 hours in the morning and 3 hours in the afternoon.
-
 
 ## Instructors
 
@@ -87,7 +83,10 @@ In order to receive the 2 ECTS the students will have to submit a referee report
 
 ### Schedule
 
-The course will be held on March 26–27, 2026. 
+This course corresponds to 2 full days of teaching (12 hrs) in addition to readings and exam. The course will be held on the 26th and 27th March. 
+
+Both days will be organized in two sessions, one in the morning (9:00–12:00) and one in the afternoon (13:00–16:00). Course dinner will be held on the evening (19:00) of March 26, 2026.
+
 
 ### Venue
 
@@ -98,10 +97,16 @@ The building is located at Thomas Manns Vej 25, 9220 Aalborg East, Denmark.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2172.1507473874403!2d9.973768253554535!3d57.01472539086101!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464eccdbf9dfd6ed%3A0x727243796a71dd57!2sAAU%20Innovation!5e0!3m2!1sen!2sdk!4v1741339631309!5m2!1sen!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+### Lunch and Course Dinner
+
+Lunch, tea and coffee throughout the course and one course dinner for all participants are included in the course fee. The course dinner will be held on the evening of March 26, 2026, at [Det Glade Vanvid](https://detgladevanvid.dk/) in Aalborg.
+
 
 ### Registration
 
-Please register for the course by filling in [this form](https://forms.office.com/e/VCaSDW31rS) no later than March 12, 2026.
+Registration for the course is now closed.
+
+~~Please register for the course by filling in [this form](https://forms.office.com/e/VCaSDW31rS) no later than March 12, 2026.~~
 
 ### Fee
 

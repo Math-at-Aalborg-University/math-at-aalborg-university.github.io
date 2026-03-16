@@ -15,8 +15,7 @@ The LSS is organized by [Eduardo Vera-Valdés](https://everval.github.io/). If y
 
 |      Date      | Place       | Speaker          | Title                            |
 | :------------: | :---------: | :--------------- | :------------------------------- | 
-| 2026-02-06 | TMV23 1.238 | [Martin Voigt Vejling](https://vbn.aau.dk/en/persons/mvv) | TBA   |
-| 2026-03-06 | TMV23 1.136 | [Martin Scotti](https://scholar.google.com/citations?user=baUoDI0AAAAJ&hl=fr)                                             | TBA   |
+| TBD | TMV23 1.136 | [Martin Scotti](https://scholar.google.com/citations?user=baUoDI0AAAAJ&hl=fr)                                             | TBA   |
 | 2026-04-10 | TMV23 1.238 | [Mikkel Hviid Thorn](https://vbn.aau.dk/en/persons/mikkel-hviid-thorn/)                                        | TBA   |
 | 2026-05-08 | TMV23 1.238 | [Christophe Biscio](https://biscio.github.io/)                                         | TBA   |
 | 2026-05-28 | TMV23 1.238 | [Ege Rubak](https://vbn.aau.dk/da/persons/rubak/) - [Anne Marie Svane](https://vbn.aau.dk/da/persons/142961/)                                                       | TBA   |
@@ -26,6 +25,8 @@ The LSS is organized by [Eduardo Vera-Valdés](https://everval.github.io/). If y
 
 |      Date      | Speaker          | Title                            |
 | :------------: | :--------------- | :------------------------------- |
+| 2026-03-06 |  Olivia Kvist  | Cointegration by Parts: Detecting Breaking Points   |
+| 2026-02-06 | [Martin Voigt Vejling](https://vbn.aau.dk/en/persons/mvv) | Conformal novelty detection: Statistical properties and anytime validity   |
 | 2025-11-28      | [J. Eduardo Vera-Valdés](https://everval.github.io)   | Global Warming Acceleration |
 | 2025-10-31     | [Jakob Gulddahl Rasmussen](https://vbn.aau.dk/en/persons/102969)  | TBA |
 | 2025-09-26     | [Esben Høg](https://vbn.aau.dk/da/persons/esben) | Negative electricity prices and the mathematics of a new class of extended hyperbolic sine functions |
