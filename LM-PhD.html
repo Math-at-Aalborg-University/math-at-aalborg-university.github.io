@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.9.36">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Long Memory in Time Series PhD Course – AAU-Math</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -24,7 +27,6 @@ ul.task-list li input[type="checkbox"] {
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
-  margin-bottom: 0em;
 }
 .hanging-indent div.csl-entry {
   margin-left:2em;
@@ -52,15 +54,14 @@ div.csl-indent {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-f7e7777eb969759b4bf5e640b1604322.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5fa25f23a4ec9ab56a7fe555e9189c21.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -90,7 +91,7 @@ div.csl-indent {
 }</script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 const typesetMath = (el) => {
@@ -135,8 +136,6 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">AAU-Math</span>
     </a>
@@ -156,10 +155,6 @@ window.Quarto = {
 <span class="menu-text">Seminar Series</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./HF-PhD.html"> 
-<span class="menu-text">HF Econometrics PhD Course</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="https://climateaau.github.io/"> 
 <span class="menu-text">Climate@AAU</span></a>
   </li>  
@@ -175,6 +170,10 @@ window.Quarto = {
         <li>
     <a class="dropdown-item" href="./XV.html">
  <span class="dropdown-text">XV Math-Econ</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./HF-PhD.html">
+ <span class="dropdown-text">PhD Course in High Frequency Econometrics</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./LM-PhD.html">
@@ -292,7 +291,7 @@ Figure&nbsp;1: Temperature for Northern Hemisphere and its autocorrelation funct
 <li><p>Our starting point is the short-memory <span class="math inline">\(I(0)\)</span> process covered in classical books by , or . Relevant background material will be covered in quick review chapters in the beginning of this course.</p></li>
 <li><p>From <span class="math inline">\(I(0)\)</span> we enter the range of stationary long memory, <span class="math inline">\(0 &lt; d &lt; 1/2\)</span>, continue with (different degrees of) nonstationarity and move towards unit roots, <span class="math inline">\(I(1)\)</span>.</p></li>
 <li><p>Long memory has received a lot of attention in time series analysis over the last decades. For instance, the updated edition by <span class="citation" data-cites="box2015time">Box et al. (<a href="#ref-box2015time" role="doc-biblioref">2015</a>)</span> contains a section on long memory and fractional integration, and so does <span class="citation" data-cites="palma2016time">Palma (<a href="#ref-palma2016time" role="doc-biblioref">2016</a>)</span>; earlier textbooks like <span class="citation" data-cites="brockwell1991time">Brockwell and Davis (<a href="#ref-brockwell1991time" role="doc-biblioref">1991</a>, Sect. 13.2)</span>, and <span class="citation" data-cites="fuller1996introduction">Fuller (<a href="#ref-fuller1996introduction" role="doc-biblioref">1996</a>, Sect. 2.11)</span> include short sections on this topic, too.</p></li>
-<li><p>Much of the material treated in this course is covered in the books by <span class="citation" data-cites="beran2013long">Beran et al. (<a href="#ref-beran2013long" role="doc-biblioref">2013</a>)</span>, <span class="citation" data-cites="giraitis2012large">Giraitis, Koul, and Surgailis (<a href="#ref-giraitis2012large" role="doc-biblioref">2012</a>)</span>, or <span class="citation" data-cites="hassler2019time">Hassler (<a href="#ref-hassler2019time" role="doc-biblioref">2019</a>)</span>. We will walk through an extensive set of slides with many details.</p></li>
+<li><p>Much of the material treated in this course is covered in the books by <span class="citation" data-cites="beran2013long">Beran et al. (<a href="#ref-beran2013long" role="doc-biblioref">2013</a>)</span>, <span class="citation" data-cites="giraitis2012large">Giraitis et al. (<a href="#ref-giraitis2012large" role="doc-biblioref">2012</a>)</span>, or <span class="citation" data-cites="hassler2019time">Hassler (<a href="#ref-hassler2019time" role="doc-biblioref">2019</a>)</span>. We will walk through an extensive set of slides with many details.</p></li>
 <li><p>The structure of this course, most of the material and the notation from the slides are taken from <span class="citation" data-cites="hassler2019time">Hassler (<a href="#ref-hassler2019time" role="doc-biblioref">2019</a>)</span>.</p></li>
 </ol>
 </section>
@@ -319,7 +318,7 @@ Figure&nbsp;1: Temperature for Northern Hemisphere and its autocorrelation funct
 </section>
 <section id="reading-material" class="level3">
 <h3 class="anchored" data-anchor-id="reading-material">Reading Material</h3>
-<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
 <div id="ref-beran2013long" class="csl-entry" role="listitem">
 Beran, J., Y. Feng, S. Ghosh, and R. Kulik. 2013. <em>Long-Memory Processes: Probabilistic Properties and Statistical Methods</em>. Springer.
 </div>
