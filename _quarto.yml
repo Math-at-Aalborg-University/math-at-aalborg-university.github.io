@@ -13,8 +13,6 @@ website:
         text: Home
       - href: LSS.qmd
         text: Seminar Series
-      - href: HF-PhD.qmd
-        text: HF Econometrics PhD Course
       - href: https://climateaau.github.io/
         text: Climate@AAU
       - href: https://climateaau.github.io/emcc-x
@@ -23,6 +21,8 @@ website:
         menu:
         - href: XV.qmd
           text: XV Math-Econ
+        - href: HF-PhD.qmd
+          text: PhD Course in High Frequency Econometrics
         - href: LM-PhD.qmd
           text: PhD Course in Long Memory
         - href: LMS.qmd

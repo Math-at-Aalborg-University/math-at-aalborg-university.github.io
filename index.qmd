@@ -8,11 +8,6 @@ This is the *offstage* page for the Department of Mathematical Sciences. You can
 
 The Department of Mathematical Sciences at Aalborg University hosts a monthly seminar series. You can find more information [here](LSS.qmd).
 
-## [PhD Course on High-frequency Econometrics](HF-PhD.qmd)
-
-The Department of Mathematical Sciences at Aalborg University is proud to host a PhD course on high-frequency econometrics: from realized volatility to realized drift. You can find more information [here](HF-PhD.qmd). The course will be held on March 26-27, 2025. Registration form will be available soon.
-
-
 ## [Earth Day and Climate Econometrics](https://climateaau.github.io)
 
 The Department of Mathematical Sciences at Aalborg University is committed to the study of Climate Change and its impacts on society. It hosts the [Climate AAU Hub](https://climateaau.github.io), containing [Climate Econometrics Research Projects](https://climateaau.github.io/climateeconometrics.html) and the yearly [Earth Day Events](https://climateaau.github.io/earthday2024.html).
@@ -20,6 +15,11 @@ The Department of Mathematical Sciences at Aalborg University is committed to th
 Furthermore, the Department is proud to host the upcoming 10th Conference on Econometric Models of Climate Change (EMCC-X) in August 20-21, 2026. More information about the conference at the official conference website [here](https://sites.google.com/view/emccconference) or the website for EMCC-X [here](https://climateaau.github.io/emcc-x).
 
 ## Previous Events
+
+#### [PhD Course on High-frequency Econometrics](HF-PhD.qmd)
+
+The Department of Mathematical Sciences at Aalborg University is proud to host a PhD course on high-frequency econometrics: from realized volatility to realized drift. You can find more information [here](HF-PhD.qmd). The course will be held on March 26-27, 2025. Registration form will be available soon.
+
 
 #### [Course on Resampling Techniques in Statistics and Data Science](Resampling-PhD.qmd)
 

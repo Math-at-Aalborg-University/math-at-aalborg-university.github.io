@@ -13,6 +13,13 @@ format-links:
     icon: file-pdf
 ---
 
+::: {.callout-note appareance="minimal"}
+
+Thank you for joining us to the PhD Course in High Frequency Econometrics. Keep an eye on this page for updates and information about future courses.
+
+:::
+
+![Photo 2026](figs/HF-Course-Photo-26.jpeg){width=100%}
 
 ## Course Description
 
