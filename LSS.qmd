@@ -15,10 +15,10 @@ The LSS is organized by [Eduardo Vera-Valdés](https://everval.github.io/). If y
 
 |      Date      | Place       | Speaker          | Title                            |
 | :------------: | :---------: | :--------------- | :------------------------------- | 
-| TBD | TMV23 1.136 | [Martin Scotti](https://scholar.google.com/citations?user=baUoDI0AAAAJ&hl=fr)                                             | TBA   |
-| 2026-04-10 | TMV23 1.238 | [Mikkel Hviid Thorn](https://vbn.aau.dk/en/persons/mikkel-hviid-thorn/)                                        | TBA   |
+| 2026-04-10 | TMV23 1.238 | [Mikkel Hviid Thorn](https://vbn.aau.dk/en/persons/mikkel-hviid-thorn/)                                        | Magnetic Quantizations / Pseudo-differential Operators   |
 | 2026-05-08 | TMV23 1.238 | [Christophe Biscio](https://biscio.github.io/)                                         | TBA   |
 | 2026-05-28 | TMV23 1.238 | [Ege Rubak](https://vbn.aau.dk/da/persons/rubak/) - [Anne Marie Svane](https://vbn.aau.dk/da/persons/142961/)                                                       | TBA   |
+| TBD | TMV23 1.136 | [Martin Scotti](https://scholar.google.com/citations?user=baUoDI0AAAAJ&hl=fr)                                             | TBA   |
 
 
 # Past Seminars
