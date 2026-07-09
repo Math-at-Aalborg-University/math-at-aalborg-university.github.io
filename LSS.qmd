@@ -15,17 +15,18 @@ The LSS is organized by [Eduardo Vera-Valdés](https://everval.github.io/). If y
 
 |      Date      | Place       | Speaker          | Title                            |
 | :------------: | :---------: | :--------------- | :------------------------------- | 
-| 2026-04-10 | TMV23 1.238 | [Mikkel Hviid Thorn](https://vbn.aau.dk/en/persons/mikkel-hviid-thorn/)                                        | Magnetic Quantizations / Pseudo-differential Operators   |
-| 2026-05-08 | TMV23 1.238 | [Christophe Biscio](https://biscio.github.io/)                                         | TBA   |
-| 2026-05-28 | TMV23 1.238 | [Ege Rubak](https://vbn.aau.dk/da/persons/rubak/) - [Anne Marie Svane](https://vbn.aau.dk/da/persons/142961/)                                                       | TBA   |
-| TBD | TMV23 1.136 | [Martin Scotti](https://scholar.google.com/citations?user=baUoDI0AAAAJ&hl=fr)                                             | TBA   |
+| 2026-09-04 | TMV23 1.238 | [Christophe Biscio](https://biscio.github.io/)   | TBA   |
+| TBD | TMV23 1.136 | [Martin Scotti](https://scholar.google.com/citations?user=baUoDI0AAAAJ&hl=fr)    | TBA   |
 
 
 # Past Seminars
 
 |      Date      | Speaker          | Title                            |
-| :------------: | :--------------- | :------------------------------- |
-| 2026-03-06 |  Olivia Kvist  | Cointegration by Parts: Detecting Breaking Points   |
+| :--------------: | :--------------- | :------------------------------- |
+| 2026-05-28 | [Ege Rubak](https://vbn.aau.dk/da/persons/rubak/) - [Anne Marie Svane](https://vbn.aau.dk/da/persons/142961/)   | AI: Aalborg Intelligence   |
+| 2026-05-11 | [Johan Vester Dinesen](https://www.aalto.fi/en/people/johan-v-dinesen), [*Aalto University*](https://www.aalto.fi/en) | The Star Product of Uniformly Random Codes   |
+| 2026-04-10 | [Mikkel Hviid Thorn](https://vbn.aau.dk/en/persons/mikkel-hviid-thorn/)   | Magnetic Quantizations / Pseudo-differential Operators   |
+| 2026-03-06 |  [Olivia Kvist](https://vbn.aau.dk/da/persons/omtk/)  | Cointegration by Parts: Detecting Breaking Points   |
 | 2026-02-06 | [Martin Voigt Vejling](https://vbn.aau.dk/en/persons/mvv) | Conformal novelty detection: Statistical properties and anytime validity   |
 | 2025-11-28      | [J. Eduardo Vera-Valdés](https://everval.github.io)   | Global Warming Acceleration |
 | 2025-10-31     | [Jakob Gulddahl Rasmussen](https://vbn.aau.dk/en/persons/102969)  | TBA |
